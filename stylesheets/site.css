@@ -3,6 +3,25 @@
    Author:
    ----------------------------------------------------*/
 
+.flex-container {
+   display: flex;
+}
+
+.flex-child {
+   flex: 1;
+}
+
+.flex-child:first-child {
+   margin-right: 20px;
+}
+
+
+#myImage {
+  width: 30%;
+  height: auto;
+  left: 0px;
+  right: 0px;
+}
 @media only screen {
 
 }

@@ -32,7 +32,7 @@
   <link rel="stylesheet" type="text/css" href="https://conductor.nd.edu/stylesheets/themes/ndt/v3/ndt.css" />
   <link rel="stylesheet" href="./stylesheets/site.css">
 </head>
-<body vocab="https://schema.org/" class="nav-top-true">
+<body vocab="https://schema.org/" class="nav-top-true full-width">
   <!-- Skip links -->
   <nav class="skip-links" aria-label="Skip links">
     <ul>
@@ -54,8 +54,8 @@
           <div id="primary">
             <ul>
               <li><a href="home.html" aria-label="Home"><svg class="icon" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg></a></li>
+              <li><a class="active" href="council.html">Council</a></li>
               <li><a href="career.html">Career</a></li>
-              <li><a href="bios.html">Bios</a></li>
               <li><a href="first_year.html">First Year</a></li>
               <li class="nav-search"><button class="btn-search search-toggle" aria-label="Toggle search"><svg class="icon" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button></li>
             </ul>
@@ -92,16 +92,15 @@
     <!-- Site Content -->
     <div id="content" class="site-content">
       <div class="page-header"></div>
-      <main class="page-main" role="main">
+      <main class="page-main block-center" role="main">
         <ol class="breadcrumbs">
           <li><a href="/">Home</a> › </li>
           <li><a href="#">Parent</a> › </li>
           <li>Page Title</li>
         </ol>
-        <h1 class="page-title"> {{ page.title }}</h1>
+        <h1 class="page-title">{{ page.title }}</h1>
 
         {{ content }}
-
       <div class="page-sidebar">
         <!-- Full Nav -->
         <nav id="nav" class="nav-site nav-full" role="navigation" aria-label="Primary navigation">
