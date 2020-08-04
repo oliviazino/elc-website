@@ -46,6 +46,16 @@ if(embeds.length) {
   fitEmbed(embeds);
 }
 
+/* Open when someone clicks on the span element */
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+
+/* Close when someone clicks on the "x" symbol inside the overlay */
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
+
 /*!
  * Video Placeholder
  * @author Erik Runyon
@@ -81,4 +91,5 @@ document.addEventListener('DOMContentLoaded', function(){
     fitEmbed(document.querySelectorAll('iframe[data-init="false"]'));
     document.querySelectorAll('iframe[data-init="false"]')[0].setAttribute('data-init', true);
   }
+
 });
