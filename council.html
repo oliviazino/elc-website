@@ -27,20 +27,21 @@ header: Council
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
       <p> {{ site.data.Executive[i].Email }} </p>
-      <div>
+      <div><p>{{ site.data.Executive[i].Bio }}</p></div>
+  <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
           <!-- The overlay -->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation -->
+  <!--      <div id="myNav" class="overlay">
+
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content -->
+         <!-- Overlay content
          <div class="overlay-content">
            <p>{{ site.data.Executive[i].Bio }}</p>
          </div>
         </div>
         </div>
-      </div>
+      </div> -->
     </div>
    {% endfor %}
 </div>
@@ -52,20 +53,21 @@ header: Council
       <h4> {{ site.data.Director[i].Name }} </h4>
       <i> {{ site.data.Director[i].Position }} </i>
       <p> {{ site.data.Director[i].Email }} </p>
-      <div>
+      <div> {{ site.data.Director[i].Bio }} </div>
+  <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
-          <!-- The overlay -->
+          <!-- The overlay ->
         <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation -->
+         <!-- Button to close the overlay navigation ->
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content -->
+         <!-- Overlay content ->
          <div class="overlay-content">
            <p>{{ site.data.Director[i].Bio }}</p>
          </div>
         </div>
         </div>
-      </div>
+      </div> -->
     </div>
    {% endfor %}
 </div>
@@ -77,20 +79,22 @@ header: Council
       <h4> {{ site.data.jrDirector[i].Name }} </h4>
       <i> {{ site.data.jrDirector[i].Position }} </i>
       <p> {{ site.data.jrDirector[i].Email }} </p>
-      <div>
+      <div> {{ site.data.jrDirector[i].Bio }} </div>
+  <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
-          <!-- The overlay -->
+          <!-- The overlay ->
         <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation -->
+         <!-- Button to close the overlay navigation ->
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content -->
+         <!-- Overlay content ->
          <div class="overlay-content">
-           <p>{{ site.data.jrDirector[i].Bio }}</p>
+           <p>{{ site.data.Director[i].Bio }}</p>
          </div>
         </div>
         </div>
-      </div>
+      </div> -->
+
     </div>
    {% endfor %}
 </div>
@@ -102,20 +106,21 @@ header: Council
       <h4> {{ site.data.Chair[i].Name }} </h4>
       <i> {{ site.data.Chair[i].Position }} </i>
       <p> {{ site.data.Chair[i].Email }} </p>
-      <div>
+      <div> {{ site.data.Chair[i].Bio }} </div>
+  <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
-          <!-- The overlay -->
+          <!-- The overlay ->
         <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation -->
+         <!-- Button to close the overlay navigation ->
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content -->
+         <!-- Overlay content ->
          <div class="overlay-content">
-           <p>{{ site.data.Chair[i].Bio }}</p>
+           <p>{{ site.data.Director[i].Bio }}</p>
          </div>
         </div>
         </div>
-      </div>
+      </div> -->
     </div>
    {% endfor %}
 </div>

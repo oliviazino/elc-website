@@ -111,24 +111,10 @@
               {% for i in (0..2) %}
                   <li class="card hover-bg dialog-item">
                     <p class="card-image"><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" alt="" width="500" height="500"></p>
-                    <div class="card-body">
-                      <p class="card-title"><a class="card-link" >{{ site.data.Executive[i].Name}}</a></p>
-                      <p><em>{{ site.data.Executive[i].Position}}</em></p>
-                      <!-- Modal content -->
-                    </div>
-                    <dialog class="dialog-person" role="dialog">
-                      <form method="dialog" class="dialog-close"><button title="Close">×</button></form>
-                      <div class="dialog-frame">
-                        <div class="dialog-image"><img src="img/{{ site.data.Executive[i].netid }}.jpg" alt="" width="500" height="500"></div>
-                        <div class="dialog-body">
-                          <h2 class="dialog-title">{{ site.data.Director[i].Name}}</h2>
-                          <p class="dialog-desc"><em>{{ site.data.Director[i].Position}}</em></p>
-                          <p class="dialog-content">{{ site.data.Director[i].Bio}}</p>
-                        </div>
-                      </div>
-                    </dialog>
+                      <p class="card-title"><a class="card-link" href="Bios/{{site.data.Executive[i].netid}}.html">{{ site.data.Executive[i].Name }}</a></p>
+                      <p><em>{{ site.data.Executive[i].Position }}</em></p>
                   </li>
-                {% endfor %}
+              {% endfor %}
             </ol>
             <h2>Senior Directors</h2>
             <ol class="no-bullets list-people grid grid-sm-2 grid-lg-4">
@@ -136,20 +122,9 @@
                   <li class="card hover-bg dialog-item">
                     <p class="card-image"><img class="image-circle" src="img/{{ site.data.Director[i].netid }}.jpg" alt="" width="500" height="500"></p>
                     <div class="card-body">
-                      <p class="card-title"><a class="card-link" >{{ site.data.Director[i].Name}}</a></p>
+                      <p class="card-title"><a class="card-link" href="{{site.data.Director[i].netid}}.html">{{ site.data.Director[i].Name}}</a></p>
                       <p><em>{{ site.data.Director[i].Position}}</em></p>
                     </div>
-                    <dialog class="dialog-person" role="dialog">
-                      <form method="dialog" class="dialog-close"><button title="Close">×</button></form>
-                      <div class="dialog-frame">
-                        <div class="dialog-image"><img src="img/{{ site.data.Director[i].netid }}.jpg" alt="" width="500" height="500"></div>
-                        <div class="dialog-body">
-                          <h2 class="dialog-title">{{ site.data.Director[i].Name}}</h2>
-                          <p class="dialog-desc"><em>{{ site.data.Director[i].Position}}</em></p>
-                          <p class="dialog-content">{{ site.data.Director[i].Bio}}</p>
-                        </div>
-                      </div>
-                    </dialog>
                   </li>
                 {% endfor %}
             </ol>
@@ -159,20 +134,9 @@
                   <li class="card hover-bg dialog-item">
                     <p class="card-image"><img class="image-circle" src="img/{{ site.data.jrDirector[i].netid }}.jpg" alt="" width="500" height="500"></p>
                     <div class="card-body">
-                      <p class="card-title"><a class="card-link" >{{ site.data.jrDirector[i].Name}}</a></p>
+                      <p class="card-title"><a class="card-link" href="{{site.data.jrDirector[i].netid}}.html">{{ site.data.jrDirector[i].Name}}</a></p>
                       <p><em>{{ site.data.jrDirector[i].Position}}</em></p>
                     </div>
-                    <dialog class="dialog-person" role="dialog">
-                      <form method="dialog" class="dialog-close"><button title="Close">×</button></form>
-                      <div class="dialog-frame">
-                        <div class="dialog-image"><img src="img/{{ site.data.jrDirector[i].netid }}.jpg" alt="" width="500" height="500"></div>
-                        <div class="dialog-body">
-                          <h2 class="dialog-title">{{ site.data.jrDirector[i].Name}}</h2>
-                          <p class="dialog-desc"><em>{{ site.data.jrDirector[i].Position}}</em></p>
-                          <p class="dialog-content">{{ site.data.jrDirector[i].Bio}}</p>
-                        </div>
-                      </div>
-                    </dialog>
                   </li>
                 {% endfor %}
             </ol>
@@ -182,20 +146,9 @@
                   <li class="card hover-bg dialog-item">
                     <p class="card-image"><img class="image-circle" src="img/{{ site.data.Chair[i].netid }}.jpg" alt="" width="500" height="500"></p>
                     <div class="card-body">
-                      <p class="card-title"><a class="card-link" >{{ site.data.Chair[i].Name}}</a></p>
+                      <p class="card-title"><a class="card-link" href="{{site.data.Chair[i].netid}}.html">{{ site.data.Chair[i].Name}}</a></p>
                       <p><em>{{ site.data.Chair[i].Position}}</em></p>
                     </div>
-                    <dialog class="dialog-person" role="dialog">
-                      <form method="dialog" class="dialog-close"><button title="Close">×</button></form>
-                      <div class="dialog-frame">
-                        <div class="dialog-image"><img src="img/{{ site.data.Chair[i].netid }}.jpg" alt="" width="500" height="500"></div>
-                        <div class="dialog-body">
-                          <h2 class="dialog-title">{{ site.data.Chair[i].Name}}</h2>
-                          <p class="dialog-desc"><em>{{ site.data.Chair[i].Position}}</em></p>
-                          <p class="dialog-content">{{ site.data.Chair[i].Bio}}</p>
-                        </div>
-                      </div>
-                    </dialog>
                   </li>
                 {% endfor %}
             </ol>
