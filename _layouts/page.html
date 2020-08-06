@@ -20,7 +20,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://site_url">
   <meta property="og:locale" content="en_US">
-  <title>Page Title | Site Name | University of Notre Dame</title>
+  <title>ELC - {{ page.title }}</title>
   <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="https://static.nd.edu/images/webclips/default/webclip-180.png">
@@ -29,7 +29,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://static.nd.edu/images/monogram/gold/monogram-32.png">
   <link rel="mask-icon" href="https://static.nd.edu/images/monogram/monogram.svg" color="#002b5c">
   <meta name="theme-color" content="#002b5c">
-  <link rel="stylesheet" type="text/css" href="https://conductor.nd.edu/stylesheets/themes/ndt/v3/ndt.css" />
+  <link rel="stylesheet" type="text/css" href="./stylesheets/ndt.css" />
   <link rel="stylesheet" href="./stylesheets/site.css">
 </head>
 <symbol id="icon-home" viewBox="0 0 576 512">
@@ -57,9 +57,9 @@
           <div id="primary">
             <ul>
               <li><a href="home.html" aria-label="Home"><svg class="icon" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg></a></li>
-              <li><a class="active" href="council.html">Council</a></li>
-              <li><a href="career.html">Career</a></li>
-              <li><a href="first_year.html">First Year</a></li>
+              <li><a href="about.html"{% if page.url == '/about.html' %} class="active"{% endif %}>Council</a></li>
+              <li><a href="eid.html"{% if page.url == '/eid.html' %} class="active"{% endif %}>Career</a></li>
+              <li><a href="first_year.html"{% if page.url == '/first_year.html' %} class="active"{% endif %}>First Year</a></li>
               <li class="nav-search"><button class="btn-search search-toggle" aria-label="Toggle search"><svg class="icon" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button></li>
             </ul>
             <div class="nav-search-wrapper">
@@ -98,11 +98,10 @@
       <main class="page-main" role="main">
         <ol class="breadcrumbs">
           <li><a href="/">Home</a> › </li>
-          <li><a href="#">{{ page.header }}</a> › </li>
+          <li><a href="#">{{ page.title }}</a> › </li>
           <li>Page Title</li>
         </ol>
         <h1 class="page-title">{{ page.title }}</h1>
-
         {{ content }}
       <div class="page-sidebar">
         <!-- Full Nav -->
@@ -171,7 +170,7 @@
         <div property="logo" typeof="ImageObject">
           <meta property="url" content="https://static.nd.edu/images/webclips/default/webclip-60.png">
         </div>
-        <p class="copyright"><a href="https://www.nd.edu/copyright/">&copy; CURRENT YEAR</a> <a href="https://www.nd.edu">University of Notre Dame</a></p>
+        <p class="copyright"><a href="https://www.nd.edu/copyright/">&copy; 2020</a> <a href="https://www.nd.edu">University of Notre Dame</a></p>
       </div>
       <div class="footer-parent" property="parentOrganization" typeof="CollegeOrUniversity" resource="#parentorg">
         <meta property="name" content="University of Notre Dame">
