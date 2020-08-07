@@ -54,8 +54,8 @@
           <div id="primary">
             <ul>
               <li><a href="home.html" aria-label="Home"><svg class="icon" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg></a></li>
-              <li><a href="about.html"{% if page.url == 'about.html' or 'bios.html' %} class="active" {% endif %}>Council</a></li>
-              <li><a href="eid.html"{% if page.url == 'eid.html' or 'career_center.html' or 'sponsors.html' %} class="active" {% endif %}>Career</a></li>
+              <li><a href="about.html" {% if page.url == '/about.html' or page.url == '/bios.html' or page.url == '/fyec.html'%} class="active" {% endif %}>Council</a></li>
+              <li><a href="eid.html"{% if page.url == '/eid.html' or page.url == '/career_center.html' or page.url == '/sponsors.html'%} class="active" {% endif %}>Career</a></li>
               <li><a href="first_year.html"{% if page.url == '/first_year.html' %} class="active" {% endif %}>First Year</a></li>
               <li class="nav-search"><button class="btn-search search-toggle" aria-label="Toggle search"><svg class="icon" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button></li>
             </ul>
@@ -110,11 +110,11 @@
         <!-- Full Nav -->
         <nav id="nav" class="nav-site nav-full" role="navigation" aria-label="Primary navigation">
           <ul class="depth_1">
-            <li class="active"><a href="#">Page A</a>
+            <li ><a href="#">Page A</a>
               <ul class="depth_2">
                 <li><a href="#">Subpage A</a></li>
                 <!-- Current Page -->
-                <li class="active"><a class="current" href="#">Subpage B</a>
+                <li ><a href="#">Subpage B</a>
                   <ul class="nav-level-2 depth_3">
                     <li><a href="#">Child Page A</a></li>
                     <li><a href="#">Child Page B</a></li>
@@ -130,9 +130,9 @@
         <!-- Current section nav -->
         <nav class="nav-section nav-site" role="navigation" aria-label="Section navigation">
           <ul class="depth_3">
-            <li {% if page.subpage1url == '/about.html' or '/eid.html' %} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
-            <li {% if page.subpage2url == '/bios.html' or '/career_center.html' %} class="active" {% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
-            <li {% if page.url  == '/sponsors.html' %} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
+            <li {% if page.url == '/about.html' or page.url == '/eid.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
+            <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' %} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
+            <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' %} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
           </ul>
         </nav>
       </div>
