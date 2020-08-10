@@ -56,7 +56,7 @@
               <li><a href="home.html" aria-label="Home"><svg class="icon" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg></a></li>
               <li><a href="about.html" {% if page.url == '/about.html' or page.url == '/bios.html' or page.url == '/fyec.html'%} class="active" {% endif %}>Council</a></li>
               <li><a href="eid.html"{% if page.url == '/eid.html' or page.url == '/career_center.html' or page.url == '/sponsors.html'%} class="active" {% endif %}>Career</a></li>
-              <li><a href="first_year.html"{% if page.url == '/first_year.html' %} class="active" {% endif %}>First Year</a></li>
+              <li><a href="first_year.html"{% if page.url == '/first_year.html' or page.url == '/calendar.html' or page.url == '/clubs.html' %} class="active" {% endif %}>First Year</a></li>
               <li class="nav-search"><button class="btn-search search-toggle" aria-label="Toggle search"><svg class="icon" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button></li>
             </ul>
             <div class="nav-search-wrapper">
@@ -91,11 +91,11 @@
     </header>
     <!-- Site Content -->
     <div id="content" class="site-content">
-      <div class="page-header"></div>
+      <div class="page-header bg-honeycomb-texture"></div>
       <main class="page-main" role="main">
         <ol class="breadcrumbs">
           <li><a href="home.html">Home</a> › </li>
-          <li><a href="#">Parent</a> › </li>
+          <li><a href="#">{{ page.title }}</a> › </li>
           <li>Page Title</li>
         </ol>
         <h1 class="page-title">{{ page.title }}</h1>
@@ -130,9 +130,9 @@
         <!-- Current section nav -->
         <nav class="nav-section nav-site" role="navigation" aria-label="Section navigation">
           <ul class="depth_3">
-            <li {% if page.url == '/about.html' or page.url == '/eid.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
-            <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' %} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
-            <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' %} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
+            <li {% if page.url == '/about.html' or page.url == '/eid.html' or page.url == '/first_year.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
+            <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' or page.url == '/calendar.html'%} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
+            <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' or page.url == '/clubs.html'%} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
           </ul>
         </nav>
       </div>
@@ -143,31 +143,30 @@
         <meta property="parentOrganization" resource="#parentorg" content="University of Notre Dame">
         <!-- Organizational Breadcrumbs -->
         <ul class="footer-breadcrumbs">
-          <li><a href="#">Parent Unit</a></li>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="#">{{ page.title }}</a></li>
         </ul>
-        <p><a href="/" class="site-link" property="url"><span property="name">Site Name</span></a></p>
+        <p><a href="home.html" class="site-link" property="url"><img src="img/ELC-White.png"></a></p>
         <div class="footer-contacts">
           <p class="contact-info">
             <span class="address" property="address" typeof="PostalAddress">
               <span property="streetAddress">Building Address</span><br>
               <span property="addressLocality">Notre Dame</span>, <span property="addressRegion">IN</span> <span property="postalCode">46556</span> <span property="addressCountry">USA</span>
             </span>
-            <span class="footer-phone" property="telephone" content="+1 (574) 555-1234">Phone <a href="tel:(574)555-1234">(574) 555-1234</a></span>
-            <span class="footer-email" property="email"><a href="mailto:example@nd.edu">example@nd.edu</a></span>
+            <span class="footer-email" property="email"><a href="mailto:elc@nd.edu">elc@nd.edu</a></span>
           </p>
           <nav class="social" aria-label="Social media navigation" vocab="">
             <ul>
               <!-- Site-specific Social Media -->
               <li><a class="soc-facebook" href="#" rel="noopener" aria-label="Site Name on Facebook"><svg class="icon" width="16" height="16" aria-hidden="true"> <use xlink:href="#icon-facebook"></use> </svg> Facebook</a></li>
-              <li><a class="soc-twitter" href="#" rel="noopener" aria-label="Site Name on Twitter"><svg class="icon" width="16" height="16" aria-hidden="true"> <use xlink:href="#icon-twitter"></use> </svg> Twitter</a></li>
-              <li><a class="soc-instagram" href="#" rel="noopener" aria-label="Site Name on Instagram"><svg class="icon" width="16" height="16" aria-hidden="true"> <use xlink:href="#icon-instagram"></use> </svg> Instagram</a></li>
+              <li><a class="soc-instagram" href="https://www.instagram.com/elc_nd/" rel="noopener" aria-label="Site Name on Instagram"><svg class="icon" width="16" height="16" aria-hidden="true"> <use xlink:href="#icon-instagram"></use> </svg> Instagram</a></li>
             </ul>
           </nav>
         </div>
         <div property="logo" typeof="ImageObject">
           <meta property="url" content="https://static.nd.edu/images/webclips/default/webclip-60.png">
         </div>
-        <p class="copyright"><a href="https://www.nd.edu/copyright/">&copy; CURRENT YEAR</a> <a href="https://www.nd.edu">University of Notre Dame</a></p>
+        <p class="copyright"><a href="https://www.nd.edu/copyright/">&copy; 2020</a> <a href="https://www.nd.edu">University of Notre Dame</a></p>
       </div>
       <div class="footer-parent" property="parentOrganization" typeof="CollegeOrUniversity" resource="#parentorg">
         <meta property="name" content="University of Notre Dame">
