@@ -129,10 +129,13 @@
         </nav>
         <!-- Current section nav -->
         <nav class="nav-section nav-site" role="navigation" aria-label="Section navigation">
-          <ul class="depth_3">
-            <li {% if page.url == '/about.html' or page.url == '/eid.html' or page.url == '/first_year.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
-            <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' or page.url == '/calendar.html'%} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
-            <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' or page.url == '/clubs.html'%} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
+          <ul class="depth_1">
+            <li {% if page.url == '/{{page.subpage1url}}.html' or page.url == '/{{ page.subpage2url }}.html' or page.url == '/{{ page.subpage3url }}.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.nav}}</a></li>
+            <ul class="nav-level-2 depth_3">
+              <li {% if page.url == '/about.html' or page.url == '/eid.html' or page.url == '/first_year.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
+              <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' or page.url == '/calendar.html'%} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
+              <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' or page.url == '/clubs.html'%} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
+            </ul>
           </ul>
         </nav>
       </div>
