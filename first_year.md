@@ -1,8 +1,42 @@
 ---
-layout: page
+layout: sidebar
 title: First Year
+subpage1: General
+subpage1url: first_year
+subpage2: Calendar
+subpage2url: calendar
+subpage3: Engineering Societies
+subpage3url: clubs
+nav: First Year
 ---
   <!-- Page Content -->
-  <p>Main page content...</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cupit enim dícere nihil posse ad beatam vitam deesse sapienti. Ita prorsus, inquam; Respondeat totidem verbis. Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest. Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere. Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Duo Reges: constructio interrete. Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim. </p>
-</main>
+  <p class="lede">While Notre Dame does not allow first years to declare their major until the spring semester,
+    there are plenty of opportunities to explore the different engineering departments.</p>
+  <h2> What to Expect During Your First Year </h2>
+  <p> Students who enroll with the intention to major in Engineering are placed
+    in several general engineering courses based on the credit they enter University with.
+    An example schedule is shown below.</p>
+  <div class="grid grid-md-2">
+    <div>
+      <h3>Fall Schedule</h3>
+      <ol>
+        <li>Writing and Rhetoric or University Seminar</li>
+        <li>MATH 10550</li>
+        <li>CHEM 10171</li>
+        <li>Core Course</li>
+        <li>EG 10114 and 10115 or 10116</li>
+      </ol>
+    </div>
+    <div>
+      <h3>Spring Schedule</h3>
+      <ol>
+        <li>Writing and Rhetoric or University Seminar</li>
+        <li>MATH 10560</li>
+        <li>CHEM 10122 or Tech Elective</li>
+        <li>PHYS 10310</li>
+        <li>EG 10116 and/or EG Projects Course </li>
+      </ol>
+    </div>
+  </div>
+
+    <p> To explore the different engineering departments further, click <a href="https://engineering.nd.edu/academics/undergraduatedegreeprograms">here</a></p>
