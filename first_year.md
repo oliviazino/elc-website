@@ -37,6 +37,5 @@ nav: First Year
         <li>EG 10116 and/or EG Projects Course </li>
       </ol>
     </div>
-  </div>
-
     <p> To explore the different engineering departments further, click <a href="https://engineering.nd.edu/academics/undergraduatedegreeprograms">here</a></p>
+  </div>

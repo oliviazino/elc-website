@@ -29,7 +29,7 @@ nav: Council
 -->
 <div class="grid grid-md-2">
   {% for i in (0..3) %}
-    <div><img src="img/{{ site.data.Executive[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage">
+    <div><img src="img/{{ site.data.Executive[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
       <p> {{ site.data.Executive[i].Email }} </p>
@@ -55,7 +55,7 @@ nav: Council
 <h2>Senior Directors</h2>
 <div class="grid grid-md-2">
   {% for i in (0..15) %}
-    <div><img src="img/{{ site.data.Director[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage">
+    <div><img src="img/{{ site.data.Director[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Director[i].Name }} </h4>
       <i> {{ site.data.Director[i].Position }} </i>
       <p> {{ site.data.Director[i].Email }} </p>
@@ -81,7 +81,7 @@ nav: Council
 <h2>Junior Directors</h2>
 <div class="grid grid-md-2">
   {% for i in (0..9) %}
-    <div><img src="img/{{ site.data.jrDirector[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage">
+    <div><img src="img/{{ site.data.jrDirector[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.jrDirector[i].Name }} </h4>
       <i> {{ site.data.jrDirector[i].Position }} </i>
       <p> {{ site.data.jrDirector[i].Email }} </p>
@@ -108,7 +108,7 @@ nav: Council
 <h2>Chairs</h2>
 <div class="grid grid-md-2">
   {% for i in (0..10) %}
-    <div><img src="img/{{ site.data.Chair[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage">
+    <div><img src="img/{{ site.data.Chair[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Chair[i].Name }} </h4>
       <i> {{ site.data.Chair[i].Position }} </i>
       <p> {{ site.data.Chair[i].Email }} </p>

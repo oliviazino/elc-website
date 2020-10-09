@@ -1,0 +1,80 @@
+I"_<p class="lede"> Below you will find a table populated
+with  contact information for a variety of diffenrent engineering societies here
+on campus. Reach out to the contact of the society you are interested in. </p>
+<table>
+  <thead>
+    <tr>
+      <th>Engineering Society</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+        <td>(ACM) Association for Computer Machinery </td>
+        <td>cseclub@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(AIAA) American Institute of Aeronautics and Astronautics</td>
+        <td>aiaa@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(AICHe) American Institute of Chemical Engineers</td>
+        <td>aiche@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(ASCE) American Society of Civil Engineers </td>
+        <td>asce@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(ASME) American Society of Mechanical Engineers </td>
+        <td>ndasme@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(EES) Environmental Engineering Society of Notre Dame</td>
+        <td>Joseph.C.Jared.1@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(EWB) Engineers Without Borders</td>
+        <td>ewbnd@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(IEEE) Institute of Electrical Engineers</td>
+        <td>ieee@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(HES): Hispanic Engineers and Scientists</td>
+        <td>maesshpe@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(NSBE) National Society of Black Engineers</td>
+        <td>dwolff1@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(SAE / BAJA) Society of Automative Engineers</td>
+        <td>beiswert@nd.edu</td>
+      </tr>
+    
+      <tr>
+        <td>(SWE) Society of Women Engineers</td>
+        <td>swe@nd.edu </td>
+      </tr>
+    
+      <tr>
+        <td>ND SEED</td>
+        <td>ndseed@nd.edu</td>
+      </tr>
+    
+  </tbody>
+</table>
+:ET

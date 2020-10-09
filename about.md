@@ -7,7 +7,7 @@ subpage2: Bios
 subpage2url: bios
 subpage3: FYEC
 subpage3url: fyec
-nav: Council
+nav: About
 ---
 <p class="lede">The Engineering Leadership Council of Notre Dame exists as a student government
 body within the College of Engineering which supports all CoE clubs via working with
