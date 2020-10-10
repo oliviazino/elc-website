@@ -2,6 +2,22 @@
    Launched:
    Author:
    ----------------------------------------------------*/
+/* Google Calendar Responsive Adjustment */
+.calendar-container {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+
+.calendar-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
    .text-block {
      position: absolute;
      bottom: 20px;
@@ -70,19 +86,25 @@
 /* 480px (small)
 ----------------------------------------------------*/
 @media only screen and (min-width:30em) {
-
+  h1 {
+        font: 12px;
+      }
 }
 
 /* 768px (medium)
 ----------------------------------------------------*/
 @media only screen and (min-width:48em) {
-
+  h1 {
+      font: 12px;
+    }
 }
 
 /* 960px (large)
 ----------------------------------------------------*/
 @media only screen and (min-width:60em) {
-
+  h1 {
+      font: 12px;
+    }
 }
 
 /* 1280px
