@@ -10,7 +10,7 @@ subpage3url: clubs
 nav: First Year
 ---
 <p class="lede"> Below you will find a table populated
-with  contact information for a variety of diffenrent engineering societies here
+with  contact information for a variety of different engineering societies here
 on campus. Reach out to the contact of the society you are interested in. </p>
 <table>
   <thead>
