@@ -84,7 +84,7 @@
 @media only screen and (min-width:5em) {
   .text-block {
    position: absolute;
-   bottom: 1435px;
+   bottom: 1400px; /*1435*/
    right: 138px;
    background: #0c2340;
    opacity: 80%;
