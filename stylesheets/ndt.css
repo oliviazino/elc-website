@@ -815,7 +815,7 @@ article footer { margin-top:2.5rem; }
 /* 480px
 ----------------------------------------------------*/
 @media only screen and (min-width:30em) {
-  
+
   .article-title {font-size:1.65rem;}
 
   /* Lists
@@ -1598,7 +1598,7 @@ article footer { margin-top:2.5rem; }
 
    /* Repeating Patterns */
   .bg-circuit-texture .page-header::before { background-image:url(images/hdr-circuit-ptn.png); background-repeat:repeat; background-size:304px; }
-  .bg-cube-texture .page-header::before { background-image:url(images/hdr-cube-ptn.png); background-repeat:repeat; background-size:67px 100px;}
+  .bg-cube-texture .page-header::before { background-image:url(../img/hdr-cube-ptn.png); background-repeat:repeat; background-size:67px 100px;}
   .bg-dome-texture .page-header::before { background-image:url(images/hdr-dome-ptn.png); background-repeat:repeat; background-size:50px; }
   .bg-graph-paper-texture .page-header::before { background-image:url(images/hdr-graph-paper-ptn.png); background-repeat:repeat; background-size:72px; }
   .bg-starcross-texture .page-header::before { background-image:url(images/hdr-starcross-ptn.png); background-repeat:repeat; background-size:67px; }
@@ -1655,7 +1655,7 @@ article footer { margin-top:2.5rem; }
   only screen and (min-resolution:1.5dppx){
 
   .bg-circuit-texture .page-header::before { background-image:url(images/hdr-circuit-ptn@2x.png); }
-  .bg-cube-texture .page-header::before { background-image:url(images/hdr-cube-ptn@2x.png); }
+  .bg-cube-texture .page-header::before { background-image:url(../img/hdr-cube-ptn@2x.png); }
   .bg-dome-texture .page-header::before { background-image:url(images/hdr-dome-ptn@2x.png); }
   .bg-graph-paper-texture .page-header::before { background-image:url(images/hdr-graph-paper-ptn@2x.png); }
   .bg-starcross-texture .page-header::before { background-image:url(images/hdr-starcross-ptn@2x.png); }

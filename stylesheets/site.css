@@ -2,6 +2,10 @@
    Launched:
    Author:
    ----------------------------------------------------*/
+   .logo{
+     width: 130px;
+     height: 70px;
+   }
 /* Google Calendar Responsive Adjustment */
 .calendar-container {
     position: relative;
@@ -80,8 +84,8 @@
 @media only screen and (min-width:5em) {
   .text-block {
    position: absolute;
-   bottom: 1420px;
-   right: 150px;
+   bottom: 1435px;
+   right: 138px;
    background: #0c2340;
    opacity: 80%;
    color: white;
