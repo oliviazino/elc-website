@@ -85,7 +85,7 @@
   .text-block {
    position: absolute;
    bottom: 1420px; /*1435*/
-   right: 70px;
+   right: 30px;
    background: #0c2340;
    opacity: 80%;
    color: white;
