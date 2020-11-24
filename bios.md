@@ -107,7 +107,7 @@ nav: Council
 
 <h2>Chairs</h2>
 <div class="grid grid-md-2">
-  {% for i in (0..10) %}
+  {% for i in (0..8) %}
     <div><img src="img/{{ site.data.Chair[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Chair[i].Name }} </h4>
       <i> {{ site.data.Chair[i].Position }} </i>
