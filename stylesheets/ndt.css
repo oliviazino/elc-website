@@ -815,7 +815,7 @@ article footer { margin-top:2.5rem; }
 /* 480px
 ----------------------------------------------------*/
 @media only screen and (min-width:30em) {
-
+  
   .article-title {font-size:1.65rem;}
 
   /* Lists

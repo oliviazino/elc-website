@@ -1,9 +1,9 @@
 {
   "lang": "en",
   "dir": "ltr",
-  "name": "Site Name",
-  "short_name": "site_url.nd.edu",
-  "start_url": "/",
+  "name": "ELC Notre Dame",
+  "short_name": "elc.nd.edu",
+  "start_url": "elc.nd.edu",
   "display": "minimal-ui",
   "theme_color": "#0c2340",
   "background_color": "#0c2340",

@@ -18,16 +18,9 @@
     height: 100%;
 }
 
-   .text-block {
-     position: absolute;
-     bottom: 20px;
-     right: 750px;
-     background: #0c2340;
-     opacity: 80%;
-     color: white;
-     padding-left: 20px;
-     padding-right: 20px;
-   }
+
+
+   /*.text-overlay{ }*/
    /* The Overlay (background) */
    .modal {
      position: fixed;
@@ -81,48 +74,138 @@
 
 @media only screen {
 
+
 }
 
+@media only screen and (min-width:5em) {
+  .text-block {
+   position: absolute;
+   bottom: 1420px;
+   right: 150px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ h1 {
+   font-size: 20px;
+ }
+
+}
 /* 480px (small)
 ----------------------------------------------------*/
 @media only screen and (min-width:30em) {
-  h1 {
-        font: 12px;
-      }
+  .text-block {
+   position: absolute;
+   bottom: 1300px;
+   right: 210px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: auto;
+ }
+ h1 {
+   font-size: 22px;
+ }
 }
 
 /* 768px (medium)
 ----------------------------------------------------*/
 @media only screen and (min-width:48em) {
-  h1 {
-      font: 12px;
-    }
+  .text-block {
+   position: absolute;
+   bottom: 700px;
+   right: 400px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: auto;
+ }
+ h1 {
+   font-size: 34px;
+ }
 }
 
 /* 960px (large)
 ----------------------------------------------------*/
 @media only screen and (min-width:60em) {
-  h1 {
-      font: 12px;
-    }
+  .text-block {
+   position: absolute;
+   bottom: 20px;
+   right: 700px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 30px;
+   width: auto;
+ }
+ h1 {
+    font-size: 34px;
+  }
+
 }
 
 /* 1280px
 ----------------------------------------------------*/
 @media only screen and (min-width:80em) {
-
+  .text-block {
+   position: absolute;
+   bottom: 20px;
+   right: 750px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: auto;
+ }
+ h1 {
+   font-size: 50px;
+ }
 }
 
 /* 1600px (x-large)
 ----------------------------------------------------*/
 @media only screen and (min-width:100em) {
-
+  .text-block {
+   position: absolute;
+   bottom: 20px;
+   right: 750px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: auto;
+ }
+ h1 {
+   font-size: 50px;
+ }
 }
 
 /* 1920px
 ----------------------------------------------------*/
 @media only screen and (min-width:120em) {
-
+  .text-block {
+   position: absolute;
+   bottom: 20px;
+   right: 750px;
+   background: #0c2340;
+   opacity: 80%;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: auto;
+ }
+ h1 {
+   font-size: 50px;
+ }
 }
 
 /* Print
