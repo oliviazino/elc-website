@@ -84,13 +84,13 @@
 @media only screen and (min-width:5em) {
   .text-block {
    position: absolute;
-   bottom: 1400px; /*1435*/
-   right: 138px;
+   bottom: 1415px; /*1435*/
+   right: 120px;
    background: #0c2340;
    opacity: 80%;
    color: white;
    padding-left: 20px;
-   padding-right: 20px;
+   padding-right: 30px;
  }
  h1 {
    font-size: 20px;
