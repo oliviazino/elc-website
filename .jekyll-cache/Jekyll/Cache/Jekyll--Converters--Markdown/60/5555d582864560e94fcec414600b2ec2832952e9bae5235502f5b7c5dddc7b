@@ -1,4 +1,4 @@
-I"#,<p><!-- Page Content --></p>
+I"¾0<p><!-- Page Content --></p>
 <h2>Executives</h2>
 <!-- <div class="flex-container">
   <div class="flex-child">
@@ -868,11 +868,11 @@
       </div> -->
     </div>
    
-    <div><img src="img/.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4>  </h4>
-      <i>  </i>
-      <p>  </p>
-      <div>  </div>
+    <div><img src="img/ngeorge2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Nathanial George </h4>
+      <i> Formal Chair </i>
+      <p> ngeorge2@nd.edu </p>
+      <div> Nathanial is a sophomore studying computer science. He is from Omaha, Nebraska, and is a resident of Duncan Hall. Nathanial is excited to creatively enrich the campus community of engineers during his time with ELC. When Nathanial is not studying or going to club meetings, he can be found hanging out with friends at Duncan Hall, taking photos at Notre Dame sporting events, or drinking coffee at the on-campus Starbucks. Nathanial owns a sports publication and a digital media company, and he plans to be self-employed after graduating from Notre Dame. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -889,11 +889,11 @@
       </div> -->
     </div>
    
-    <div><img src="img/.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4>  </h4>
-      <i>  </i>
-      <p>  </p>
-      <div>  </div>
+    <div><img src="img/lhealy2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Leah Healy </h4>
+      <i> Supporting Chair </i>
+      <p> lhealy2@nd.edu </p>
+      <div> Leah Healy is a sophomore Computer Science major with a minor in Engineering Corporate Practice from Long Island, New York. On campus Leah lives in Howard Hall and is very involved with the Club Field Hockey team and in her hallâ€™s music ministry. This year she is serving as a Supporting Chair for ELC. She looks forward to working with others in ELC and is excited for everything the club will plan and accomplish. In the future, she hopes to manage software that makes the cyberspace a more secure and efficient atmosphere. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">

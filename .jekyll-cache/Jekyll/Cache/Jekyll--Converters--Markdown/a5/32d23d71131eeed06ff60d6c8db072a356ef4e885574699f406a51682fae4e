@@ -1,4 +1,4 @@
-I"=,<p><!-- Page Content --></p>
+I"�0<p><!-- Page Content --></p>
 <h2>Executives</h2>
 <!-- <div class="flex-container">
   <div class="flex-child">
@@ -678,27 +678,6 @@
 <h2>Chairs</h2>
 <div class="grid grid-md-2">
   
-    <div><img src="img/.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Nathanial George </h4>
-      <i>  </i>
-      <p>  </p>
-      <div>  </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Mia is a junior studying Civil Engineering with a minor in Resiliency and Sustainability of Engineering Systems. Now living in Lewis Hall, Mia is originally a Colorado native who enjoys hiking, skiing, and camping in the Rocky Mountains. Outside of ELC, Mia is involved in undergraduate research through the Kellogg International Scholars Program, works as a Notre Dame tour guide, and is a part of the American Society of Civil Engineers concrete canoe team. In her free time, she enjoys making birthday cakes, running around the lakes, and being a (novice) member of the Notre Dame Ballroom Dance Club. </p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-    </div>
-   
     <div><img src="img/ahaigh.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
       <h4> Anna Haigh </h4>
       <i> Winter Career Fair Chair </i>
@@ -713,7 +692,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Emma is a junior studying Chemical Engineering with a minor in Energy Studies. Born and raised in Colorado, Emma has a deep passion for the environment and loves spending time outdoors. Eventually she would like to use her degree towards sustainability research or developing clean energy. On campus, she lives in McGlinn Hall and stays busy with club sports, student council, and undergraduate research. A few of her hobbies include skiing, tennis, field hockey, sustainable fashion, and running with her black labs, Libby & Max. Catch her playing spike ball on west quad or making the most creative DH recipes in South (the best DH).</p>
+           <p>Mia is a junior studying Civil Engineering with a minor in Resiliency and Sustainability of Engineering Systems. Now living in Lewis Hall, Mia is originally a Colorado native who enjoys hiking, skiing, and camping in the Rocky Mountains. Outside of ELC, Mia is involved in undergraduate research through the Kellogg International Scholars Program, works as a Notre Dame tour guide, and is a part of the American Society of Civil Engineers concrete canoe team. In her free time, she enjoys making birthday cakes, running around the lakes, and being a (novice) member of the Notre Dame Ballroom Dance Club. </p>
          </div>
         </div>
         </div>
@@ -734,7 +713,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Colleen is a senior studying Mechanical Engineering with a minor in Computational Engineering. Originally from the Western suburbs of Chicago, on campus she now resides in Welsh Family Hall. This is her fourth year of serving on ELC and she will be acting as the Senior Director of Corporate Relations. In addition to being a part of ELC, Colleen works as a Resident Assistant for her dorm and is a member of the Society of Women Engineers. </p>
+           <p>Emma is a junior studying Chemical Engineering with a minor in Energy Studies. Born and raised in Colorado, Emma has a deep passion for the environment and loves spending time outdoors. Eventually she would like to use her degree towards sustainability research or developing clean energy. On campus, she lives in McGlinn Hall and stays busy with club sports, student council, and undergraduate research. A few of her hobbies include skiing, tennis, field hockey, sustainable fashion, and running with her black labs, Libby & Max. Catch her playing spike ball on west quad or making the most creative DH recipes in South (the best DH).</p>
          </div>
         </div>
         </div>
@@ -755,8 +734,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Kaileigh is a junior studying chemical engineering and minoring in theology. She is originally from O’Fallon, IL, a suburb of Saint Louis Missouri, but currently resides in Welsh Family Hall. This will be her third year serving on ELC, and is looking forward to harnessing Notre Dame’s engineering talents to help the surrounding community. When she is not in class, she is most likely spending time volunteering. She currently volunteers at Hope Ministries, tutors at Robinson Community Learning Center, and teaches Sunday school at St. Matthew’s Cathedral. Besides volunteering, she can be found on multiple interhall sports teams, including being starting linebacker on Welsh Family Hall’s B-team flag football team. In the future, she aspires to work as a process engineer in a manufacturing environment.
-</p>
+           <p>Colleen is a senior studying Mechanical Engineering with a minor in Computational Engineering. Originally from the Western suburbs of Chicago, on campus she now resides in Welsh Family Hall. This is her fourth year of serving on ELC and she will be acting as the Senior Director of Corporate Relations. In addition to being a part of ELC, Colleen works as a Resident Assistant for her dorm and is a member of the Society of Women Engineers. </p>
          </div>
         </div>
         </div>
@@ -768,6 +746,28 @@
       <i> Social Chair </i>
       <p> ldepole@nd.edu </p>
       <div> Leland DePole is a sophomore studying Chemical Engineering with an Energy Studies minor. Leland (although most of his friends just call him Leo) is originally from Severna Park, MD, just outside of Baltimore, and on campus he lives in Sorin College. This is Leo’s first year contributing to ELC, and he is very excited to help provide a fun and social atmosphere for his fellow council members. He is already brainstorming new and unconventional ways of abiding by policies surrounding COVID and still having a blast! Outside of ELC, Leo spends his time on campus playing interhall soccer and lacrosse, contributing to the energy board, and drinking way too much coffee.  </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
+           <p>Kaileigh is a junior studying chemical engineering and minoring in theology. She is originally from O’Fallon, IL, a suburb of Saint Louis Missouri, but currently resides in Welsh Family Hall. This will be her third year serving on ELC, and is looking forward to harnessing Notre Dame’s engineering talents to help the surrounding community. When she is not in class, she is most likely spending time volunteering. She currently volunteers at Hope Ministries, tutors at Robinson Community Learning Center, and teaches Sunday school at St. Matthew’s Cathedral. Besides volunteering, she can be found on multiple interhall sports teams, including being starting linebacker on Welsh Family Hall’s B-team flag football team. In the future, she aspires to work as a process engineer in a manufacturing environment.
+</p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+    </div>
+   
+    <div><img src="img/ngeorge2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Nathanial George </h4>
+      <i> Formal Chair </i>
+      <p> ngeorge2@nd.edu </p>
+      <div> Nathanial is a sophomore studying computer science. He is from Omaha, Nebraska, and is a resident of Duncan Hall. Nathanial is excited to creatively enrich the campus community of engineers during his time with ELC. When Nathanial is not studying or going to club meetings, he can be found hanging out with friends at Duncan Hall, taking photos at Notre Dame sporting events, or drinking coffee at the on-campus Starbucks. Nathanial owns a sports publication and a digital media company, and he plans to be self-employed after graduating from Notre Dame. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -805,11 +805,11 @@
       </div> -->
     </div>
    
-    <div><img src="img/.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Leah Healy </h4>
-      <i>  </i>
+    <div><img src="img/hmartin8.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Ellie Martinson </h4>
+      <i> Supporting Chair </i>
       <p>  </p>
-      <div>  </div>
+      <div> Ellie is a sophomore studying Computer Science Engineering. Originally from northern New Jersey, Ellie currently resides in Welsh Family Hall.  Ellie was part of FYEC last year, and is looking forward to contributing to ELC as a supporting chair this year. Outside of ELC, Ellie is a member of BeeND and Society of Women Engineers. Over quarantine, Ellie started raising chickens and perfected her chocolate chip cookie recipe. She is excited to get back to spending time with friends and working late nights in LaFun. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -826,30 +826,9 @@
       </div> -->
     </div>
    
-    <div><img src="img/hmartin8.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Ellie Martinson </h4>
-      <i> Supporting Chair </i>
-      <p>  </p>
-      <div> Ellie is a sophomore studying Computer Science Engineering. Originally from northern New Jersey, Ellie currently resides in Welsh Family Hall.  Ellie was part of FYEC last year, and is looking forward to contributing to ELC as a supporting chair this year. Outside of ELC, Ellie is a member of BeeND and Society of Women Engineers. Over quarantine, Ellie started raising chickens and perfected her chocolate chip cookie recipe. She is excited to get back to spending time with friends and working late nights in LaFun. </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Ben is a junior studying Civil Engineering from Dallas, TX. He lives in Alumni Hall where he plays on the intermural football team. This is his third year on ELC; his second year working of the EYF speaker series. Ben is also a member of the men’s boxing program and academic quiz bowl team. He is interested in sustainable and resilient engineering and does research in groundwater modeling. </p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-    </div>
-   
     <div><img src="img/mscherm2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
       <h4> Mark Schermerhorn </h4>
-      <i> Support Chair </i>
+      <i> Supporting Chair </i>
       <p> mscherm2@nd.edu </p>
       <div> Mark is a sophomore studying Computer Science and potentially minoring in Engineering Corporate Practice.  He is originally from Kansas City and lives in Baumer Hall on campus.  This will be his first year serving on the Engineering Leadership Council as a Support Chair.  On campus, Mark is also involved in Running Club and Compass Small Groups.  He enjoys playing any kind of interhall sport, cheering on any Kansas City sports team (Go Chiefs!), going to the Candy Wall at LaFun late at night, Dorm Masses, and chicken wraps from Grace Hall. </div>
   <!--    <div>
@@ -861,7 +840,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Kelly is a junior studying Mechanical Engineering and living in Lewis Hall. She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra and at Lewis Sunday mass. She also tutors in the First Year Learning Resource Center. In her free time, you can find her enjoying the candy wall in Lafun!</p>
+           <p>Ben is a junior studying Civil Engineering from Dallas, TX. He lives in Alumni Hall where he plays on the intermural football team. This is his third year on ELC; his second year working of the EYF speaker series. Ben is also a member of the men’s boxing program and academic quiz bowl team. He is interested in sustainable and resilient engineering and does research in groundwater modeling. </p>
          </div>
         </div>
         </div>
@@ -882,7 +861,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Cameron Taylor is a sophomore chemical engineer who is also pursuing a theology minor. Cameron previously served as the Vice President on the First Year Engineering Council. Cameron lives in Duncan Hall where he is the service commissioner. Cameron also participates in interhall sports and volunteers with DREAM Teams with Duncan Hall. Outside of ELC, Cameron is involved in Compass and Engineers Without Borders. When he is not studying, he can normally be found at the Rock playing basketball or the fields behind Duncan playing soccer. </p>
+           <p>Kelly is a junior studying Mechanical Engineering and living in Lewis Hall. She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra and at Lewis Sunday mass. She also tutors in the First Year Learning Resource Center. In her free time, you can find her enjoying the candy wall in Lafun!</p>
          </div>
         </div>
         </div>
@@ -894,6 +873,27 @@
       <i> Supporting Chair </i>
       <p> Esherida@nd.edu </p>
       <div> Elizabeth, aka Betsy, Sheridan is a sophomore studying Civil Engineering. Originally from Chicago, Illinois, she now lives in Welsh Family Hall where she plays interhall sports as a whirlwind. She was a member of FYEC last year and is extremely excited for this year as Supporting Chair for ELC. When Betsy is not at ELC or supporting the Whirlwinds she can be found listening to music, baking, painting, or taking walks around Campus. </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
+           <p>Cameron Taylor is a sophomore chemical engineer who is also pursuing a theology minor. Cameron previously served as the Vice President on the First Year Engineering Council. Cameron lives in Duncan Hall where he is the service commissioner. Cameron also participates in interhall sports and volunteers with DREAM Teams with Duncan Hall. Outside of ELC, Cameron is involved in Compass and Engineers Without Borders. When he is not studying, he can normally be found at the Rock playing basketball or the fields behind Duncan playing soccer. </p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+    </div>
+   
+    <div><img src="img/lhealy2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Leah Healy </h4>
+      <i> Supporting Chair </i>
+      <p> lhealy2@nd.edu </p>
+      <div> Leah Healy is a sophomore Computer Science major with a minor in Engineering Corporate Practice from Long Island, New York. On campus Leah lives in Howard Hall and is very involved with the Club Field Hockey team and in her hall’s music ministry. This year she is serving as a Supporting Chair for ELC. She looks forward to working with others in ELC and is excited for everything the club will plan and accomplish. In the future, she hopes to manage software that makes the cyberspace a more secure and efficient atmosphere. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
