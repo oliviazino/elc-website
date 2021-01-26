@@ -1,12 +1,12 @@
 ---
 layout: sidebar
-title: Bios
+title: Members
 subpage1: About
-subpage1url: about
-subpage2: Bios
-subpage2url: bios
+subpage1url: about.html
+subpage2: Members
+subpage2url: bios.html
 subpage3: FYEC
-subpage3url: fyec
+subpage3url: fyec.html
 nav: Council
 ---
   <!-- Page Content -->

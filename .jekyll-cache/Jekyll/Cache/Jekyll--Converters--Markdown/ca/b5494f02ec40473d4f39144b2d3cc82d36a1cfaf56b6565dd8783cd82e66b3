@@ -1,4 +1,4 @@
-I"�0<p><!-- Page Content --></p>
+I"�1<p><!-- Page Content --></p>
 <h2>Executives</h2>
 <!-- <div class="flex-container">
   <div class="flex-child">
@@ -40,7 +40,7 @@
     </div>
    
     <div><img src="img/sbsales.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Sarah BSales </h4>
+      <h4> Sarah Bsales </h4>
       <i> Co-President </i>
       <p> sbsales@nd.edu </p>
       <div><p>Sarah Bsales is a senior computer science major from Bloomfield, New Jersey.  In her fourth year as an ELC member, she has the privilege of serving as co-president.  In the past, she was an active member of the First Year Engineering Council, chair of Engineers Week, and vice-president.  While she thoroughly enjoys each and every event that ELC organizes, the Engineering Formal holds a special place in her heart.  All of the hard work and dedication of the council members is truly showcased as hundreds of engineers take to the dance floor.  If you are ever looking for her on campus, the first place that you should check is the LaFun booths!  </p></div>
@@ -85,8 +85,7 @@
       <h4> Robert Scott </h4>
       <i> Treasurer </i>
       <p> rscott5@nd.edu </p>
-      <div><p>Robert is a senior obtaining dual degrees in Chemical Engineering and Economics serving as the Engineering Leadership Council's Senior Treasurer. He currently resides in Sorin College and is from Summit, New Jersey. Robert was a member of the First Year Engineering Council, and organized the Early Admit visitation weekend for all prospective engineering students admitted early last year on ELC. Besides Engineering Leadership Council, Robert is involved with the Notre Dame Marching Band, Club Coordination Council, the Knights of Columbus and is a Sorin Fellow with the Notre Dame Center for Ethics and Culture. He likes to spend his time hiking, camping and exploring new places.  
-</p></div>
+      <div><p>Robert is a senior obtaining dual degrees in Chemical Engineering and Economics serving as the Engineering Leadership Council's Senior Treasurer. He currently resides in Sorin College and is from Summit, New Jersey. Robert was a member of the First Year Engineering Council, and organized the Early Admit visitation weekend for all prospective engineering students admitted early last year on ELC. Besides Engineering Leadership Council, Robert is involved with the Notre Dame Marching Band, Club Coordination Council, the Knights of Columbus and is a Sorin Fellow with the Notre Dame Center for Ethics and Culture. He likes to spend his time hiking, camping and exploring new places.</p></div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -96,8 +95,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content
          <div class="overlay-content">
-           <p>Robert is a senior obtaining dual degrees in Chemical Engineering and Economics serving as the Engineering Leadership Council's Senior Treasurer. He currently resides in Sorin College and is from Summit, New Jersey. Robert was a member of the First Year Engineering Council, and organized the Early Admit visitation weekend for all prospective engineering students admitted early last year on ELC. Besides Engineering Leadership Council, Robert is involved with the Notre Dame Marching Band, Club Coordination Council, the Knights of Columbus and is a Sorin Fellow with the Notre Dame Center for Ethics and Culture. He likes to spend his time hiking, camping and exploring new places.  
-</p>
+           <p>Robert is a senior obtaining dual degrees in Chemical Engineering and Economics serving as the Engineering Leadership Council's Senior Treasurer. He currently resides in Sorin College and is from Summit, New Jersey. Robert was a member of the First Year Engineering Council, and organized the Early Admit visitation weekend for all prospective engineering students admitted early last year on ELC. Besides Engineering Leadership Council, Robert is involved with the Notre Dame Marching Band, Club Coordination Council, the Knights of Columbus and is a Sorin Fellow with the Notre Dame Center for Ethics and Culture. He likes to spend his time hiking, camping and exploring new places.</p>
          </div>
         </div>
         </div>
@@ -522,7 +520,7 @@
       <h4> Ray Kman </h4>
       <i> Website Management </i>
       <p> rkman@nd.edu </p>
-      <div> Ray Kman is a junior studying Electrical Engineering with an Engineering Corporate Practice minor. He is originally from Cleveland, Ohio and formerly a member of Stanford Hall. Ray served as an open chair last year on the council and was a member of FYEC previously. In Ray’s free time he enjoys golfing, travelling and growing plants, all hobbies that drain his bank account. Ray is a part of the website management team and is looking forward developing ELC’s online presence. </div>
+      <div> Ray Kman is a junior studying Electrical Engineering with an Engineering Corporate Practice minor. He is originally from Cleveland, Ohio and formerly a member of Stanford Hall. Ray served as an open chair last year on the council and was a member of FYEC previously. Currently, he is a part of the website management team and is looking forward to developing ELC’s online presence.  In Ray’s free time he enjoys golfing, travelling and growing plants, all quite unique hobbies while also being involved with the Student International Business Council (SIBC) here on campus. Ray is looking forward to interning with Texas Instruments this upcoming summer as a Technical Sales Engineer Intern. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -763,6 +761,27 @@
       </div> -->
     </div>
    
+    <div><img src="img/ngeorge2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Nathanial George </h4>
+      <i> Formal Chair </i>
+      <p> ngeorge2@nd.edu </p>
+      <div> Nathanial is a sophomore studying computer science. He is from Omaha, Nebraska, and is a resident of Duncan Hall. Nathanial is excited to creatively enrich the campus community of engineers during his time with ELC. When Nathanial is not studying or going to club meetings, he can be found hanging out with friends at Duncan Hall, taking photos at Notre Dame sporting events, or drinking coffee at the on-campus Starbucks. Nathanial owns a sports publication and a digital media company, and he plans to be self-employed after graduating from Notre Dame. </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
+           <p>Devon is a senior studying Chemical Engineering with a minor in Engineering Corporate Practice from Charlotte, North Carolina. He resides in Baumer Hall, where he serves as a RA. Entering his third year with ELC, he is excited to help oversee the group's web presence and has helped relaunch the ELC website. Outside of ELC, Devon sings with the Glee Club and can often be spotted at Duncan Student Center or zooming across campus on his scooter.</p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+    </div>
+   
     <div><img src="img/ckemper.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
       <h4> Collin Kemper </h4>
       <i> Supporting Chair </i>
@@ -777,7 +796,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Devon is a senior studying Chemical Engineering with a minor in Engineering Corporate Practice from Charlotte, North Carolina. He resides in Baumer Hall, where he serves as a RA. Entering his third year with ELC, he is excited to help oversee the group's web presence and has helped relaunch the ELC website. Outside of ELC, Devon sings with the Glee Club and can often be spotted at Duncan Student Center or zooming across campus on his scooter.</p>
+           <p>Allison is a senior Chemical Engineer with a minor in Engineering Corporate Practice. She is originally from Virginia, but has called McGlinn Hall her home. When she isn’t working on ELC, she is involved as Director of Dorm Operations for SWE on campus. She’s been with ELC since her freshmen year, and she’s super excited to continue bettering ELC’s online and on campus presence!</p>
          </div>
         </div>
         </div>
@@ -798,7 +817,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Allison is a senior Chemical Engineer with a minor in Engineering Corporate Practice. She is originally from Virginia, but has called McGlinn Hall her home. When she isn’t working on ELC, she is involved as Director of Dorm Operations for SWE on campus. She’s been with ELC since her freshmen year, and she’s super excited to continue bettering ELC’s online and on campus presence!</p>
+           <p>Nora is a junior studying Computer Science with a minor in Catholic Social Teaching. Originally from Libertyville, Illinois, Nora lives in Welsh Family Hall on campus. This is her third year on ELC and she is excited to design graphics to publicize all of ELC's amazing events. Nora is also involved in hall government, works in the Notre Dame Alumni Association, and is on the women's boxing team. When she isn't in class, she can be found playing flag football (or any interhall sport), running around the lakes, taking a nap, or watching TikToks.</p>
          </div>
         </div>
         </div>
@@ -819,7 +838,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Nora is a junior studying Computer Science with a minor in Catholic Social Teaching. Originally from Libertyville, Illinois, Nora lives in Welsh Family Hall on campus. This is her third year on ELC and she is excited to design graphics to publicize all of ELC's amazing events. Nora is also involved in hall government, works in the Notre Dame Alumni Association, and is on the women's boxing team. When she isn't in class, she can be found playing flag football (or any interhall sport), running around the lakes, taking a nap, or watching TikToks.</p>
+           <p>Ben is a junior studying Civil Engineering from Dallas, TX. He lives in Alumni Hall where he plays on the intermural football team. This is his third year on ELC; his second year working of the EYF speaker series. Ben is also a member of the men’s boxing program and academic quiz bowl team. He is interested in sustainable and resilient engineering and does research in groundwater modeling. </p>
          </div>
         </div>
         </div>
@@ -840,7 +859,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Ben is a junior studying Civil Engineering from Dallas, TX. He lives in Alumni Hall where he plays on the intermural football team. This is his third year on ELC; his second year working of the EYF speaker series. Ben is also a member of the men’s boxing program and academic quiz bowl team. He is interested in sustainable and resilient engineering and does research in groundwater modeling. </p>
+           <p>Kelly is a junior studying Mechanical Engineering and living in Lewis Hall. She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra and at Lewis Sunday mass. She also tutors in the First Year Learning Resource Center. In her free time, you can find her enjoying the candy wall in Lafun!</p>
          </div>
         </div>
         </div>
@@ -861,7 +880,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Kelly is a junior studying Mechanical Engineering and living in Lewis Hall. She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra and at Lewis Sunday mass. She also tutors in the First Year Learning Resource Center. In her free time, you can find her enjoying the candy wall in Lafun!</p>
+           <p>Cameron Taylor is a sophomore chemical engineer who is also pursuing a theology minor. Cameron previously served as the Vice President on the First Year Engineering Council. Cameron lives in Duncan Hall where he is the service commissioner. Cameron also participates in interhall sports and volunteers with DREAM Teams with Duncan Hall. Outside of ELC, Cameron is involved in Compass and Engineers Without Borders. When he is not studying, he can normally be found at the Rock playing basketball or the fields behind Duncan playing soccer. </p>
          </div>
         </div>
         </div>
@@ -873,27 +892,6 @@
       <i> Supporting Chair </i>
       <p> lhealy2@nd.edu </p>
       <div> Leah Healy is a sophomore Computer Science major with a minor in Engineering Corporate Practice from Long Island, New York. On campus Leah lives in Howard Hall and is very involved with the Club Field Hockey team and in her hall’s music ministry. This year she is serving as a Supporting Chair for ELC. She looks forward to working with others in ELC and is excited for everything the club will plan and accomplish. In the future, she hopes to manage software that makes the cyberspace a more secure and efficient atmosphere. </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Cameron Taylor is a sophomore chemical engineer who is also pursuing a theology minor. Cameron previously served as the Vice President on the First Year Engineering Council. Cameron lives in Duncan Hall where he is the service commissioner. Cameron also participates in interhall sports and volunteers with DREAM Teams with Duncan Hall. Outside of ELC, Cameron is involved in Compass and Engineers Without Borders. When he is not studying, he can normally be found at the Rock playing basketball or the fields behind Duncan playing soccer. </p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-    </div>
-   
-    <div><img src="img/ngeorge2.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Nathanial George </h4>
-      <i> Formal Chair </i>
-      <p> ngeorge2@nd.edu </p>
-      <div> Nathanial is a sophomore studying computer science. He is from Omaha, Nebraska, and is a resident of Duncan Hall. Nathanial is excited to creatively enrich the campus community of engineers during his time with ELC. When Nathanial is not studying or going to club meetings, he can be found hanging out with friends at Duncan Hall, taking photos at Notre Dame sporting events, or drinking coffee at the on-campus Starbucks. Nathanial owns a sports publication and a digital media company, and he plans to be self-employed after graduating from Notre Dame. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">

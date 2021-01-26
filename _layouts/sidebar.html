@@ -55,8 +55,10 @@
             <ul>
               <li><a href="home.html" aria-label="Home"><svg class="icon" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg></a></li>
               <li><a href="about.html" {% if page.url == '/about.html' or page.url == '/bios.html' or page.url == '/fyec.html'%} class="active" {% endif %}>Council</a></li>
-              <li><a href="eid.html"{% if page.url == '/eid.html' or page.url == '/career_center.html' or page.url == '/sponsors.html'%} class="active" {% endif %}>Career</a></li>
-              <li><a href="first_year.html"{% if page.url == '/first_year.html' or page.url == '/calendar.html' or page.url == '/clubs.html' %} class="active" {% endif %}>First Year</a></li>
+              <li><a href="career_center.html"{% if page.url == '/career_center.html' or page.url == '/handshake.html' or page.url == '/career_contacts.html'%} class="active" {% endif %}>Career</a></li>
+              <li><a href="calendar.html"{% if page.url == '/calendar.html' or page.url == '/eid.html' or page.url == '/spring.html'  or page.url == '/eweek.html'%} class="active" {% endif %}>Events</a></li>
+              <li><a href="first_year.html"{% if page.url == '/first_year.html' or page.url == '/clubs.html' %} class="active" {% endif %}>Resources</a></li>
+              <li><a href="sponsor_contact.html"{% if page.url == '/sponsor_contact.html' or page.url == '/eweek_sponsor.html' %} class="active" {% endif %}>Sponsorship</a></li>
               <li class="nav-search"><button class="btn-search search-toggle" aria-label="Toggle search"><svg class="icon" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button></li>
             </ul>
             <div class="nav-search-wrapper">
@@ -115,21 +117,33 @@
             <li><a href="about.html">Council</a>
               <ul class="depth_2">
                 <li><a href="about.html">About</a></li>
-                <li><a href="bios.html">Bios</a></li>
+                <li><a href="bios.html">Members</a></li>
                 <li><a href="fyec.html">FYEC</a></li>
               </ul></li>
-            <li><a href="eid.html">Career</a>
+            <li><a href="career_center.html">Career</a>
               <ul class="depth_2">
-                <li><a href="eid.html">EID</a></li>
                 <li><a href="career_center.html">Career Center</a></li>
-                <li><a href="sponsors.html">Sponsorship</a></li>
+                <li><a href="handshake.html">Handshake</a></li>
+                <li><a href="career_contacts.html">Contacts</a></li>
               </ul>
             </li>
-            <li><a href="first_year.html">First Year</a>
+            <li><a href="calendar.html">Events</a>
               <ul class="depth_2">
-                <li><a href="first_year.html">General</a></li>
                 <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="eid.html">EID</a></li>
+                <li><a href="spring.html">Spring Into Engineering</a></li>
+                <li><a href="eweek.html">E-Week</a></li>
+              </ul>
+            </li>
+            <li><a href="first_year.html">Resources</a>
+              <ul class="depth_2">
+                <li><a href="first_year.html">First Year Information</a></li>
                 <li><a href="clubs.html">Engineering Societies</a></li>
+              </ul>
+            </li>
+            <li><a href="sponsors.html">Sponsorship</a>
+              <ul class="depth_2">
+                <li><a href="sponsor_contact.html">Contact</a></li>
               </ul>
             </li>
           </ul>
@@ -137,11 +151,12 @@
         <!-- Current section nav -->
         <nav class="nav-section nav-site" role="navigation" aria-label="Section navigation">
           <ul class="depth_1">
-            <li {% if page.url == '/{{page.subpage1url}}.html' or page.url == '/{{ page.subpage2url }}.html' or page.url == '/{{ page.subpage3url }}.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.nav}}</a></li>
+            <li {% if page.url == '/{{page.subpage1url}}' or page.url == '/{{ page.subpage2url }}' or page.url == '/{{ page.subpage3url }}' or page.url == '/{{ page.subpage4url }}' %} class="active" {% endif %}><a href="{{page.subpage1url}}">{{page.nav}}</a></li>
             <ul class="nav-level-2 depth_3">
-              <li {% if page.url == '/about.html' or page.url == '/eid.html' or page.url == '/first_year.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}.html">{{page.subpage1}}</a></li>
-              <li {% if page.url  == '/bios.html' or page.url == '/career_center.html' or page.url == '/calendar.html'%} class="active"{% endif %}><a href="{{page.subpage2url}}.html">{{page.subpage2}}</a></li>
-              <li {% if page.url  == '/fyec.html' or page.url == '/sponsors.html' or page.url == '/clubs.html'%} class="active"{% endif %}><a href="{{page.subpage3url}}.html">{{page.subpage3}}</a></li>
+              <li {% if page.url == '/about.html' or page.url == '/career_center.html' or page.url == '/calendar.html' or page.url == '/first_year.html' or page.url == '/sponsor_contact.html'%} class="active" {% endif %}><a href="{{page.subpage1url}}">{{page.subpage1}}</a></li>
+              <li {% if page.url  == '/bios.html' or page.url == '/handshake.html' or page.url == '/eid.html' or page.url == '/clubs.html'%} class="active"{% endif %}><a href="{{page.subpage2url}}">{{page.subpage2}}</a></li>
+              <li {% if page.url  == '/fyec.html' or page.url == '/career_contacts.html' or page.url == '/spring.html'%} class="active"{% endif %}><a href="{{page.subpage3url}}">{{page.subpage3}}</a></li>
+              <li {% if page.url  == '/eweek.html'%} class="active"{% endif %}><a href="{{page.subpage4url}}">{{page.subpage4}}</a></li>
             </ul>
           </ul>
         </nav>

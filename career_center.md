@@ -1,12 +1,12 @@
 ---
 layout: sidebar
 title: Meruelo Family Center for Career Development
-subpage1: EID
-subpage1url: eid
-subpage2: Career Center
-subpage2url: career_center
-subpage3: Sponsorship
-subpage3url: sponsors
+subpage1: Career Center
+subpage1url: career_center.html
+subpage2: Handshake
+subpage2url: handshake.html
+subpage3: Contacts
+subpage3url: career_contacts.html
 url: career_center
 nav: Career
 ---

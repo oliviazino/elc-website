@@ -1,13 +1,11 @@
 ---
 layout: sidebar
 title: Engineering Societies
-subpage1: General
-subpage1url: first_year
-subpage2: Calendar
-subpage2url: calendar
-subpage3: Engineering Societies
-subpage3url: clubs
-nav: First Year
+subpage1: First Year
+subpage1url: first_year.html
+subpage2: Engineering Societies
+subpage2url: clubs.html
+nav: Resources
 ---
 <p class="lede"> Below you will find a table populated
 with  contact information for a variety of different engineering societies here

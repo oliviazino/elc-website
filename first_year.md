@@ -1,13 +1,11 @@
 ---
 layout: sidebar
-title: First Year
-subpage1: General
+title: First Year Information
+subpage1: First Year
 subpage1url: first_year
-subpage2: Calendar
-subpage2url: calendar
-subpage3: Engineering Societies
-subpage3url: clubs
-nav: First Year
+subpage2: Engineering Societies
+subpage2url: clubs
+nav: Resources
 ---
   <!-- Page Content -->
   <p class="lede">While Notre Dame does not allow first years to declare their major until the spring semester,
@@ -37,5 +35,5 @@ nav: First Year
         <li>EG 10116 and/or EG Projects Course </li>
       </ol>
     </div>
-    <p> To explore the different engineering departments further, click <a href="https://engineering.nd.edu/departments-programs/undergraduate-programs/">here</a></p>
   </div>
+<p> To explore the different engineering departments further, click <a href="https://engineering.nd.edu/departments-programs/undergraduate-programs/">here</a></p>

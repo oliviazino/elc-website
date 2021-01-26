@@ -1,14 +1,16 @@
 ---
 layout: sidebar
 title: Engineering Industry Day (EID)
-subpage1: EID
-subpage1url: eid
-subpage2: Career Center
-subpage2url: career_center
-subpage3: Sponsorship
-subpage3url: sponsors
-url: eid.html
-nav: Career
+subpage1: Calendar
+subpage1url: calendar.html
+subpage2: EID
+subpage2url: eid.html
+subpage3: Spring into Engineering
+subpage3url: spring.html
+subpage4: E-Week
+subpage4url: eweek.html
+url: eid
+nav: Events
 ---
 <!-- Page Content -->
 <p>The University of Notre Dame's Engineering Leadership Council and Society
