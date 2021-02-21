@@ -12,4 +12,7 @@ subpage4url: eweek.html
 url: eweek
 nav: Events
 ---
-<p>More information TBA. For urgent inquiries, please contact elc@nd.edu. </p>
+<div>
+<img src="img/Engineers.Week.jpg" height="1152" width="864" loading="lazy">
+</div>
+<p>For urgent inquiries, please contact elc@nd.edu. </p>
