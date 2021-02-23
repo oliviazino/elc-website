@@ -5,10 +5,10 @@ subpage1: Calendar
 subpage1url: calendar.html
 subpage2: EID
 subpage2url: eid.html
-subpage3: Spring into Engineering
-subpage3url: spring.html
-subpage4: E-Week
-subpage4url: eweek.html
+subpage3: E-Week
+subpage3url: eweek.html
+subpage4: FYEC Newsletter
+subpage4url: fyec_newsletter.html
 nav: Events
 ---
 To see event details, you must be logged into your Notre Dame email.
