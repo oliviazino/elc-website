@@ -12,9 +12,11 @@ subpage4url: fyec_newsletter.html
 url: eweek
 nav: Events
 ---
-<div>
-<img src="img/Engineers.Week.jpg" height="1152" width="864" loading="lazy">
-<img src="img/presentations.jpg" height="1152" width="864" loading="lazy">
-<img src="img/giveaway.jpg" height="1152" width="864" loading="lazy">
-</div>
+
+To view the E-Week schedule, you must be logged into your Notre Dame email.
+
+<iframe src="https://drive.google.com/file/d/1AvzakD6vbRgwXJD3CX899F-AsmPx-Egq/preview" width="640" height="510"></iframe>
+<iframe src="https://drive.google.com/file/d/18d_ZW7jSW01gUSlRdWgEmudvIryutDpO/preview" width="640" height="510"></iframe>
+<iframe src="https://drive.google.com/file/d/1dD6fLjwfQuT9UFyQZSLeQy0ylYaAxjtT/preview" width="640" height="510"></iframe>
+
 <p>For urgent inquiries, please contact elc@nd.edu. </p>
