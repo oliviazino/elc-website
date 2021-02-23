@@ -12,6 +12,6 @@ subpage4url: fyec_newsletter.html
 url: fyec_newsletter
 nav: Events
 ---
-This newsletter will be updated towards the beginning of each week. You must be logged into your Notre Dame email to view this newsletter.
+This [newsletter](https://drive.google.com/file/d/1zq0_P7g2xXQZLwN-4p1dyWxJTbqnoOcr/view?usp=sharing) will be updated towards the beginning of each week. To view the newsletter, you must be logged into your Notre Dame email.
 
 <iframe src="https://drive.google.com/file/d/1zq0_P7g2xXQZLwN-4p1dyWxJTbqnoOcr/preview" width="640" height="480"></iframe>
