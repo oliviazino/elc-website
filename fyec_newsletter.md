@@ -1,16 +1,14 @@
 ---
 layout: sidebar
 title: FYEC Engineering Newsletter
-subpage1: Calendar
-subpage1url: calendar.html
-subpage2: EID
-subpage2url: eid.html
-subpage3: E-Week
-subpage3url: eweek.html
-subpage4: FYEC Newsletter
-subpage4url: fyec_newsletter.html
+subpage1: First Year
+subpage1url: first_year
+subpage2: Engineering Societies
+subpage2url: clubs
+subpage3: FYEC Newsletter
+subpage3url: fyec_newsletter
 url: fyec_newsletter
-nav: Events
+nav: Resources
 ---
 This [newsletter](https://drive.google.com/file/d/1zq0_P7g2xXQZLwN-4p1dyWxJTbqnoOcr/view?usp=sharing) will be updated towards the beginning of each week. To view the newsletter, you must be logged into your Notre Dame email.
 

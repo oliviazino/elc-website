@@ -2,9 +2,11 @@
 layout: sidebar
 title: Engineering Societies
 subpage1: First Year
-subpage1url: first_year.html
+subpage1url: first_year
 subpage2: Engineering Societies
-subpage2url: clubs.html
+subpage2url: clubs
+subpage3: FYEC Newsletter
+subpage3url: fyec_newsletter
 nav: Resources
 ---
 <p class="lede"> Below you will find a table populated
