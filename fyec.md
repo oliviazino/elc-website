@@ -23,7 +23,25 @@ nav: Council
     <div><img src="img/{{ site.data.FYEC[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.FYEC[i].Name }} </h4>
       <i> {{ site.data.FYEC[i].Position }} </i>
+      <p>{{ site.data.FYEC[i].netid }}@nd.edu</p>
       <div><p>{{ site.data.FYEC[i].Bio }}</p></div>
     </div>
    {% endfor %}
 </div>
+<h4>FYEC Members Not Pictured</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in (0..19) %}
+      <tr>
+        <td>{{ site.data.FYEC2[i].Name}}</td>
+        <td>{{ site.data.FYEC2[i].Email}}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
