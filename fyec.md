@@ -16,3 +16,14 @@ nav: Council
   for students to learn, interact, and serve. We enable First-Year students to explore
    the various fields within engineering and volunteer in the South Bend community. </p>
 <p><strong> Be on the lookout in your inbox for instructions on how to apply to be a part of FYEC!</strong></p>
+
+<h2>Members</h2>
+<div class="grid grid-md-2">
+  {% for i in (0..8) %}
+    <div><img src="img/{{ site.data.FYEC[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
+      <h4> {{ site.data.FYEC[i].Name }} </h4>
+      <i> {{ site.data.FYEC[i].Position }} </i>
+      <div><p>{{ site.data.FYEC[i].Bio }}</p></div>
+    </div>
+   {% endfor %}
+</div>
