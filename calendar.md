@@ -13,5 +13,5 @@ nav: Events
 ---
 To see event details, you must be logged into your Notre Dame email.
 <div class="calendar-container">
-<iframe src="https://calendar.google.com/calendar/embed?src=nd.edu_gdk58g5hr8n9unfj6f6aocblg4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=ZWxjQG5kLmVkdQ&src=bmQuZWR1X25tNnB1b3U4MnB0cDZ2aDY5N2lsY2N1bW40QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%2344a703&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
