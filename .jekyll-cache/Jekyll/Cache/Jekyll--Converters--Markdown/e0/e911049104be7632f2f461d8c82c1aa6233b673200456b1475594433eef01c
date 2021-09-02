@@ -1,20 +1,4 @@
----
-layout: sidebar
-title: Engineering Industry Day (EID)
-subpage1: Calendar
-subpage1url: calendar.html
-subpage2: EID
-subpage2url: eid.html
-subpage3: E-Week
-subpage3url: eweek.html
-subpage4: FYEC Newsletter
-subpage4url: fyec_newsletter.html
-url: eid
-nav: Events
----
-<!-- Page Content -->
-  <div><img src="img/EID.2021.slide.jpg" loading="lazy"></div>
-  <p></p>
+I"<!-- Page Content -->
 <p>The University of Notre Dame's Engineering Leadership Council and Society
   of Women Engineers are proud to present Engineering Industry Day, a casual
   networking event open to all engineering majors. This event provides students
@@ -24,15 +8,13 @@ nav: Events
 <h3> EID Networking Event</h3>
 <p><em><b>Monday, September 13th 5:30-7:30 PM EST</b></em></p>
 <p>Click <a href="https://nd.joinhandshake.com/career_fairs/25690">
-  here</a> for further information!</p>
+  here</a> for further information and to sign up for the event!</p>
 
 <h3>Engineering Leaders Breakfast (engineers only, invite required)</h3>
-<p><em><b>Tuesday, September 14th 8:30 - 10:00 AM EST</b></em></p>
+<p><em><b>Tuesday, September 14th 8:30 - 10:00 PM EST</b></em></p>
 <p> More information to follow. Stay tuned!</p>
 
-<h3>Multi-College Career Fair (all university)</h3>
-<p><em><b>Tuesday, September 14th 5:00 - 8:00 PM EST</b></em></p>
-
-
-
+<h3>EMulti-College Career Fair (all university)</h3>
+<p><em><b>Tuesday, September 14th 8:30 - 10:00 PM EST</b></em></p>
 <!-- <p>Click <a href="#">here</a> to sign up for the event!</p> -->
+:ET
