@@ -80,7 +80,7 @@ nav: Council
 
 <h2>Junior Directors</h2>
 <div class="grid grid-md-2">
-  {% for i in (0..5) %}
+  {% for i in (0..6) %}
     <div><img src="img/{{ site.data.jrDirector[i].netid }}.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.jrDirector[i].Name }} </h4>
       <i> {{ site.data.jrDirector[i].Position }} </i>

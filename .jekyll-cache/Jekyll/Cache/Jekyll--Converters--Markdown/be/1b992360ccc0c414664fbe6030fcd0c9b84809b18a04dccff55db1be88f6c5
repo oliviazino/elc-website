@@ -1,4 +1,4 @@
-I"÷è<p><!-- Page Content --></p>
+I"ûá<p><!-- Page Content --></p>
 <h2>Executives</h2>
 <!-- <div class="flex-container">
   <div class="flex-child">
@@ -296,11 +296,11 @@
       </div> -->
     </div>
    
-    <div><img src="img/.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4>  </h4>
-      <i>  </i>
-      <p>  </p>
-      <div>  </div>
+    <div><img src="img/rkman.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Ray Kman </h4>
+      <i> Website Management </i>
+      <p> rkman@nd.edu </p>
+      <div> Ray is a Senior studying Electrical Engineering with an Engineering Corporate Practice minor. He is originally from Cleveland, Ohio and formerly a member of Stanford Hall. Ray served as the Junior Director of Website Management last year on the council. In Rayâ€™s free time he enjoys golfing and traveling while also being involved with the Student International Business Council (SIBC) here on campus. Ray is looking forward to join Texas Instruments as a full-time Technical Sales Engineer out of the Santa Clara, CA office. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -310,7 +310,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p></p>
+           <p>Ray is a Senior studying Electrical Engineering with an Engineering Corporate Practice minor. He is originally from Cleveland, Ohio and formerly a member of Stanford Hall. Ray served as the Junior Director of Website Management last year on the council. In Rayâ€™s free time he enjoys golfing and traveling while also being involved with the Student International Business Council (SIBC) here on campus. Ray is looking forward to join Texas Instruments as a full-time Technical Sales Engineer out of the Santa Clara, CA office.</p>
          </div>
         </div>
         </div>
@@ -322,28 +322,6 @@
 <h2>Junior Directors</h2>
 <div class="grid grid-md-2">
   
-    <div><img src="img/aturne22.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Andrea Turner </h4>
-      <i> Transfer Student Program </i>
-      <p> aturne22@nd.edu </p>
-      <div> Andrea is a sophomore from Palm Beach Gardens, Florida studying Computer Science with a minor in Collaborative Innovation.  On campus, she lives in McGlinn Hall.  This is her first year serving on ELC, and she is excited to help integrate transfer students into life at Notre Dame.  Outside of ELC, she is involved in Notre Dame Running Club, Design for America, CS for Good, Engineers Without Borders, McGlinn Hall Council, and interhall flag football (roll 'rocks!).  In her free time, she loves to spend time painting, being outside, and spending time with friends. </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Coming to Notre Dame from Rochester, NY, Andrew is a junior studying civil engineering and political science. Now in his second year as Director of EID, he is looking forward to developing the campus engineering network as a part of ELC. Outside of ELC, Andrew enjoys building concrete canoes with ASCE, works as a university admissions tour guide, is a lector at his dorm's weekly Mass, and is an instructor in the ND Swing Dance Club. Beyond those activities, you can find him trying (and failing) to dunk in a pick-up basketball game or lamenting the loss of Wing Nights in the dining halls.</p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-
-    </div>
-   
     <div><img src="img/akaczoro.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
       <h4> Amanda Kaczorowski </h4>
       <i> Graphic Design </i>
@@ -358,7 +336,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Nora is a senior studying Computer Science with a minor in Catholic Social Teaching. Originally from Libertyville, Illinois, Nora lives in Welsh Family Hall on campus. This is her fourth year on ELC and she is excited to design graphics to publicize all of ELC's amazing events. Nora is also on the women's boxing team and works as a TA for computer science classes. When she isn't in class, she can be found playing flag football (or any interhall sport), running around the lakes, taking a nap, or watching TikToks.</p>
+           <p>Coming to Notre Dame from Rochester, NY, Andrew is a junior studying civil engineering and political science. Now in his second year as Director of EID, he is looking forward to developing the campus engineering network as a part of ELC. Outside of ELC, Andrew enjoys building concrete canoes with ASCE, works as a university admissions tour guide, is a lector at his dorm's weekly Mass, and is an instructor in the ND Swing Dance Club. Beyond those activities, you can find him trying (and failing) to dunk in a pick-up basketball game or lamenting the loss of Wing Nights in the dining halls.</p>
          </div>
         </div>
         </div>
@@ -380,7 +358,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p>Kelly is a senior studying Mechanical Engineering and living off campus (formerly in Lewis Hall). She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra. In her free time, you can find her reading or cooking!</p>
+           <p>Nora is a senior studying Computer Science with a minor in Catholic Social Teaching. Originally from Libertyville, Illinois, Nora lives in Welsh Family Hall on campus. This is her fourth year on ELC and she is excited to design graphics to publicize all of ELC's amazing events. Nora is also on the women's boxing team and works as a TA for computer science classes. When she isn't in class, she can be found playing flag football (or any interhall sport), running around the lakes, taking a nap, or watching TikToks.</p>
          </div>
         </div>
         </div>
@@ -402,6 +380,28 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
+           <p>Kelly is a senior studying Mechanical Engineering and living off campus (formerly in Lewis Hall). She is from Wheaton, IL (a suburb of Chicago). Kelly is excited to use her role on ELC this year to introduce new students to the best parts of engineering at ND! In addition to ELC, Kelly is part of the Notre Dame Rocketry Team and the Society of Women Engineers and plays violin in the ND Symphony Orchestra. In her free time, you can find her reading or cooking!</p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+
+    </div>
+   
+    <div><img src="img/khandler.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Krista Handler </h4>
+      <i> Social Media </i>
+      <p> khandler@nd.edu </p>
+      <div> Krista is a sophomore majoring in mechanical engineering with a minor in engineering corporate practice. Although she is originally from Long Island, New York, she now calls Flaherty Hall her home. This will be her first year on ELC as the Junior Social Media Chair after being on FYEC freshman year. Krista is also a member of the Notre Dame Formula Racing Team and is the Athletic Commissioner of Flaherty. Her favorite things about Notre Dame include cheering on the Irish, desserts at NDH, and hanging out with friends on campus.  </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
            <p>Carlie Servinski is a sophomore studying Chemical Engineering. She currently resides in McGlinn Hall but is originally from Midland, Michigan. Throughout her time at Notre Dame so far she has been an active member of the First Year Engineering Council, served as a Snack Shack representative in McGlinn, and been active in Campus Ministry. This year, as the Director of the First Year Engineering Council, Carlie is eager to help the First Year Engineers grow within the College of Engineering and put on exciting events for their peers!</p>
          </div>
         </div>
@@ -410,11 +410,11 @@
 
     </div>
    
-    <div><img src="img/eburns22.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Ella Burns </h4>
-      <i> Sponsorship </i>
-      <p> eburns22@nd.edu </p>
-      <div> Ella is a sophomore Civil Engineering major with a minor in Engineering Corporate Practice. Now living in Cavanaugh Hall, Ella is originally from the Chicago suburb of Palatine, IL, and is an avid Chicago sports fan (Go Cubs!). She is passionate about running, hiking, and the outdoors in general, so she would like to focus her career on sustainability. Outside of ELC you can find Ella playing quarterback for Cavanaugh's flag football team, dominating Spikeball on South Quad, or participating in all things concrete with the American Society for Civil Engineers. </div>
+    <div><img src="img/bmackey.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Brooke Mackey </h4>
+      <i> Engineering Newsletter </i>
+      <p> bmackey@nd.edu </p>
+      <div> Brooke Mackey is a sophomore majoring in Computer Science and minoring in the Hesburgh Program in Public Service. She currently resides in Farley Hall but is originally from Mequon, Wisconsin. Previously, she served as the Secretary for the First Year Engineering Council, but this is her first year working on the Engineering Leadership Council! Outside of ELC, Brooke is working on projects with the Student Policy Network and CS for Good. In her free time, she enjoys curating Spotify playlists and discovering new music, climbing at the campus rock wall, drinking absurd amounts of coffee, binge watching Game of Thrones, and playing cards! </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -432,11 +432,11 @@
 
     </div>
    
-    <div><img src="img/khandler.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Krista Handler </h4>
-      <i> Social Media </i>
-      <p> khandler@nd.edu </p>
-      <div> Krista is a sophomore majoring in mechanical engineering with a minor in engineering corporate practice. Although she is originally from Long Island, New York, she now calls Flaherty Hall her home. This will be her first year on ELC as the Junior Social Media Chair after being on FYEC freshman year. Krista is also a member of the Notre Dame Formula Racing Team and is the Athletic Commissioner of Flaherty. Her favorite things about Notre Dame include cheering on the Irish, desserts at NDH, and hanging out with friends on campus.  </div>
+    <div><img src="img/cthrum.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Chiara Thrum </h4>
+      <i> Treasurer </i>
+      <p> cthrum@nd.edu </p>
+      <div> Chiara is a senior studying Environmental Engineering and pursuing a minor in Energy Studies. Chiara is from St. Joseph, Michigan, but lives in Pasquerilla West on Campus. Outside of ELC, she is treasurer of the Environmental Engineering Society and part of the Women's Boxing club, Society of Women Engineers, and the Grand Challenge Scholars Program. Chiara also really enjoys traveling, skiing, scuba diving, and playing tennis. After Notre Dame, she hopes to pursue a higher level degree and work in water technology consulting. </div>
   <!--    <div>
         <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
         <div class="popup" id="popup1">
@@ -469,50 +469,6 @@
          <!-- Overlay content ->
          <div class="overlay-content">
            <p>Emma is a senior studying Chemical Engineering with a minor in Energy Studies. Born and raised in Colorado Springs, Emma has a deep passion for the environment and loves spending time outdoors. Her time at Notre Dame has been filled with McGlinn Hall leadership, undergraduate research, tour guiding, and love for ND football. A few of her hobbies include skiing, tennis, field hockey, and running.</p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-
-    </div>
-   
-    <div><img src="img/bmackey.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Brooke Mackey </h4>
-      <i> Engineering Newsletter </i>
-      <p> bmackey@nd.edu </p>
-      <div> Brooke Mackey is a sophomore majoring in Computer Science and minoring in the Hesburgh Program in Public Service. She currently resides in Farley Hall but is originally from Mequon, Wisconsin. Previously, she served as the Secretary for the First Year Engineering Council, but this is her first year working on the Engineering Leadership Council! Outside of ELC, Brooke is working on projects with the Student Policy Network and CS for Good. In her free time, she enjoys curating Spotify playlists and discovering new music, climbing at the campus rock wall, drinking absurd amounts of coffee, binge watching Game of Thrones, and playing cards! </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Chris is a senior mechanical engineer from Mentor, Ohio. In addition to his work with ELC, Chris is the president of the Notre Dame chapter of the American Society of Mechanical Engineers this year.  When he is not doing work, you can find him playing soccer or basketball with friends or spending time outside hiking and camping. </p>
-         </div>
-        </div>
-        </div>
-      </div> -->
-
-    </div>
-   
-    <div><img src="img/cthrum.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
-      <h4> Chiara Thrum </h4>
-      <i> Treasurer </i>
-      <p> cthrum@nd.edu </p>
-      <div> Chiara is a senior studying Environmental Engineering and pursuing a minor in Energy Studies. Chiara is from St. Joseph, Michigan, but lives in Pasquerilla West on Campus. Outside of ELC, she is treasurer of the Environmental Engineering Society and part of the Women's Boxing club, Society of Women Engineers, and the Grand Challenge Scholars Program. Chiara also really enjoys traveling, skiing, scuba diving, and playing tennis. After Notre Dame, she hopes to pursue a higher level degree and work in water technology consulting. </div>
-  <!--    <div>
-        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
-        <div class="popup" id="popup1">
-          <!-- The overlay ->
-        <div id="myNav" class="overlay">
-         <!-- Button to close the overlay navigation ->
-         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <!-- Overlay content ->
-         <div class="overlay-content">
-           <p>Anna is a senior studying mechanical engineering who hails from Cincinnati, Ohio. This is her third year on ELC, having previously served as the club's social chair and working with the transfer student program. She lives off campus but still can be found playing flag football with her Lewis Chicks. Anna is also a part of the Rocketry Team on campus and will gladly talk to you about anything space related. She enjoys working out, reading, and petting every dog she sees. </p>
          </div>
         </div>
         </div>
@@ -728,7 +684,7 @@
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
          <!-- Overlay content ->
          <div class="overlay-content">
-           <p></p>
+           <p>Ray is a Senior studying Electrical Engineering with an Engineering Corporate Practice minor. He is originally from Cleveland, Ohio and formerly a member of Stanford Hall. Ray served as the Junior Director of Website Management last year on the council. In Rayâ€™s free time he enjoys golfing and traveling while also being involved with the Student International Business Council (SIBC) here on campus. Ray is looking forward to join Texas Instruments as a full-time Technical Sales Engineer out of the Santa Clara, CA office.</p>
          </div>
         </div>
         </div>
