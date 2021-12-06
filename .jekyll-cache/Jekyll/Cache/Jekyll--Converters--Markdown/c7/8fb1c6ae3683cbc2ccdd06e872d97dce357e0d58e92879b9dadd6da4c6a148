@@ -1,4 +1,4 @@
-I"ыб<p><!-- Page Content --></p>
+I"Oп<p><!-- Page Content --></p>
 <h2>Executives</h2>
 <!-- <div class="flex-container">
   <div class="flex-child">
@@ -469,6 +469,50 @@
          <!-- Overlay content ->
          <div class="overlay-content">
            <p>Emma is a senior studying Chemical Engineering with a minor in Energy Studies. Born and raised in Colorado Springs, Emma has a deep passion for the environment and loves spending time outdoors. Her time at Notre Dame has been filled with McGlinn Hall leadership, undergraduate research, tour guiding, and love for ND football. A few of her hobbies include skiing, tennis, field hockey, and running.</p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+
+    </div>
+   
+    <div><img src="img/eburns22.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Ella Burns </h4>
+      <i> Sponsorship </i>
+      <p> eburns22@nd.edu </p>
+      <div> Ella is a sophomore Civil Engineering major with a minor in Engineering Corporate Practice. Now living in Cavanaugh Hall, Ella is originally from the Chicago suburb of Palatine, IL, and is an avid Chicago sports fan (Go Cubs!). She is passionate about running, hiking, and the outdoors in general, so she would like to focus her career on sustainability. Outside of ELC you can find Ella playing quarterback for Cavanaugh's flag football team, dominating Spikeball on South Quad, or participating in all things concrete with the American Society for Civil Engineers. </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
+           <p>Chris is a senior mechanical engineer from Mentor, Ohio. In addition to his work with ELC, Chris is the president of the Notre Dame chapter of the American Society of Mechanical Engineers this year.  When he is not doing work, you can find him playing soccer or basketball with friends or spending time outside hiking and camping. </p>
+         </div>
+        </div>
+        </div>
+      </div> -->
+
+    </div>
+   
+    <div><img src="img/aturne22.jpg" align="left" hspace="20" vspace="30" id="myImage" loading="lazy" />
+      <h4> Andrea Turner </h4>
+      <i> Transfer Student Program </i>
+      <p> aturne22@nd.edu </p>
+      <div> Andrea is a sophomore from Palm Beach Gardens, Florida studying Computer Science with a minor in Collaborative Innovation.  On campus, she lives in McGlinn Hall.  This is her first year serving on ELC, and she is excited to help integrate transfer students into life at Notre Dame.  Outside of ELC, she is involved in Notre Dame Running Club, Design for America, CS for Good, Engineers Without Borders, McGlinn Hall Council, and interhall flag football (roll 'rocks!).  In her free time, she loves to spend time painting, being outside, and spending time with friends. </div>
+  <!--    <div>
+        <span onclick="openNav()"><a class="btn btn-md">View Bio</a></span>
+        <div class="popup" id="popup1">
+          <!-- The overlay ->
+        <div id="myNav" class="overlay">
+         <!-- Button to close the overlay navigation ->
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <!-- Overlay content ->
+         <div class="overlay-content">
+           <p>Anna is a senior studying mechanical engineering who hails from Cincinnati, Ohio. This is her third year on ELC, having previously served as the club's social chair and working with the transfer student program. She lives off campus but still can be found playing flag football with her Lewis Chicks. Anna is also a part of the Rocketry Team on campus and will gladly talk to you about anything space related. She enjoys working out, reading, and petting every dog she sees. </p>
          </div>
         </div>
         </div>
