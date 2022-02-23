@@ -15,8 +15,6 @@ nav: Events
 
 To view the E-Week schedule, you must be logged into your Notre Dame email.
 
-<iframe src="https://drive.google.com/file/d/1AvzakD6vbRgwXJD3CX899F-AsmPx-Egq/preview" width="640" height="510"></iframe>
-<iframe src="https://drive.google.com/file/d/18d_ZW7jSW01gUSlRdWgEmudvIryutDpO/preview" width="640" height="510"></iframe>
-<iframe src="https://drive.google.com/file/d/1dD6fLjwfQuT9UFyQZSLeQy0ylYaAxjtT/preview" width="640" height="510"></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=11pk6N_wHPJoZSCiS9CL9iuzFiSALCST0&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
 
 <p>For urgent inquiries, please contact elc@nd.edu. </p>
