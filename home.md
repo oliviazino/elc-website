@@ -2,7 +2,7 @@
 layout: home
 month: Feb
 numDay: 24
-event: SWE 50th Anniversary Donut Giveaway
+event: SWE 50th Anniversary Pizza Giveaway
 day: Thu
 year: 2022
 timeStart: 3:00 PM
