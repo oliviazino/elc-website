@@ -225,7 +225,7 @@ cite, .cite {font-style:italic;}
 /* Images & Video
 ----------------------------------------------------*/
 svg:not(:root) {overflow:hidden;}
-img {max-width:100%; width:auto; height:auto; border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic; box-sizing:content-box; object-fit:cover}
+img {max-width:100%; width:auto; height:auto; border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic; box-sizing:content-box; }
 figure {display:table; max-width:100%; margin:0 0 1em;}
 figcaption {display:table-caption; caption-side:bottom; text-align:left; line-height:1.5em;}
 .no-border,
