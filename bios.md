@@ -27,7 +27,7 @@ nav: Council
 </div>
 
 -->
-<div class="grid grid-md-2">
+<div class="grid grid-sm-3">
   {% for i in (0..3) %}
     <div><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
