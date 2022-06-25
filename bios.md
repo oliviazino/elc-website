@@ -29,7 +29,7 @@ nav: Council
 -->
 <div class="grid grid-md-4">
   {% for i in (0..3) %}
-    <div><img class="image-circle image-responsive" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="20" vspace="30" id="myImage" loading="lazy">
+    <div><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="20" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
       <!--<p> {{ site.data.Executive[i].Email }} </p>
