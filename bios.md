@@ -63,7 +63,7 @@ nav: Council
           <button title="Close">
             x
           </button>
-        <form>
+        </form>
         <div class="dialog-frame">
           <div class="dialog-image">
             <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
