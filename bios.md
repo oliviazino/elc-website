@@ -55,10 +55,9 @@ nav: Council
 <h2>Senior Directors</h2>
 <div class="grid grid-md-4">
   {% for i in (0..9) %}
-    <div><img class="image-circle" src="img/{{ site.data.Director[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy" height="1200" width="1200">
+    <div onclick="openDialog()"><img class="image-circle" src="img/{{ site.data.Director[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy" height="1200" width="1200">
       <h4> {{ site.data.Director[i].Name }} </h4>
       <i> {{ site.data.Director[i].Position }} </i>
-      <button onclick="myFunction()">open dialog</button>
       <dialog class="dialog-person" id="dialog2">
         <form method="dialog" class="dialog-close">
           <button title="Close">
@@ -157,7 +156,7 @@ nav: Council
 </div>
 
 <script>
-function myFunction() { 
+function openDialog() { 
   document.getElementById("dialog2").showModal(); 
 } 
 </script>
