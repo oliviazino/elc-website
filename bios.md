@@ -156,6 +156,7 @@ nav: Council
    {% endfor %}
 </div>
 
+<script>
 function myFunction() { 
   document.getElementById("dialog2").showModal(); 
 } 
