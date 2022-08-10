@@ -32,7 +32,7 @@ nav: Council
     <div onclick="openDialog('ex', {{ i }})"><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
-      <dialog class="dialog-person" id="exdialog-{{i}}">
+      <dialog class="horizontal-xs" id="exdialog-{{i}}">
         <form method="dialog" class="dialog-close">
           <button title="Close">
             x
