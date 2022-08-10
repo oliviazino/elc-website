@@ -32,32 +32,30 @@ nav: Council
     <div><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
-      {% for i in (0..3) %}
-        <dialog class="dialog-person" id="dialog2">
-          <form method="dialog" class="dialog-close">
-            <button title="Close">
-              x
-            </button>
-          </form>
-          <div class="dialog-frame">
-            <div class="dialog-image">
-              <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
-            </div>
-            <div class="dialog-body">
-              <h4 class="dialog-title">
-                {{ site.data.Director[i].Name }}
-              </h4>
-              <p class="dialog-desc">
-                <em>{{ site.data.Director[i].Position }}</em>
-              </p>
-              <p class="dialog-content">
-                {{ site.data.Director[i].Email }}
-                {{ site.data.Director[i].Bio }}
-              </p>
-            </div>
+      <dialog class="dialog-person" id="dialog2">
+        <form method="dialog" class="dialog-close">
+          <button title="Close">
+            x
+          </button>
+        </form>
+        <div class="dialog-frame">
+          <div class="dialog-image">
+            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
           </div>
-        </dialog>
-      {% endfor %}
+          <div class="dialog-body">
+            <h4 class="dialog-title">
+              {{ site.data.Director[i].Name }}
+            </h4>
+            <p class="dialog-desc">
+              <em>{{ site.data.Director[i].Position }}</em>
+            </p>
+            <p class="dialog-content">
+              {{ site.data.Director[i].Email }}
+              {{ site.data.Director[i].Bio }}
+            </p>
+          </div>
+        </div>
+      </dialog>
     </div>
    {% endfor %}
 </div>
@@ -68,32 +66,30 @@ nav: Council
     <div onclick="openDialog()"><img class="image-circle" src="img/{{ site.data.Director[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy" height="1200" width="1200">
       <h4> {{ site.data.Director[i].Name }} </h4>
       <i> {{ site.data.Director[i].Position }} </i>
-      {% for i in (0..9) %}
-        <dialog class="dialog-person" id="dialog2">
-          <form method="dialog" class="dialog-close">
-            <button title="Close">
-              x
-            </button>
-          </form>
-          <div class="dialog-frame">
-            <div class="dialog-image">
-              <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
-            </div>
-            <div class="dialog-body">
-              <h4 class="dialog-title">
-                {{ site.data.Director[i].Name }}
-              </h4>
-              <p class="dialog-desc">
-                <em>{{ site.data.Director[i].Position }}</em>
-              </p>
-              <p class="dialog-content">
-                {{ site.data.Director[i].Email }}
-                {{ site.data.Director[i].Bio }}
-              </p>
-            </div>
+      <dialog class="dialog-person" id="dialog2">
+        <form method="dialog" class="dialog-close">
+          <button title="Close">
+            x
+          </button>
+        </form>
+        <div class="dialog-frame">
+          <div class="dialog-image">
+            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
           </div>
-        </dialog>
-      {% endfor %}
+          <div class="dialog-body">
+            <h4 class="dialog-title">
+              {{ site.data.Director[i].Name }}
+            </h4>
+            <p class="dialog-desc">
+              <em>{{ site.data.Director[i].Position }}</em>
+            </p>
+            <p class="dialog-content">
+              {{ site.data.Director[i].Email }}
+              {{ site.data.Director[i].Bio }}
+            </p>
+          </div>
+        </div>
+      </dialog>
       <!--<p> {{ site.data.Director[i].Email }} </p>
       <!--<div> {{ site.data.Director[i].Bio }} </div>
   <!--    <div>
@@ -120,32 +116,30 @@ nav: Council
     <div><img class="image-circle" src="img/{{ site.data.jrDirector[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy" height="1200" width="1200">
       <h4> {{ site.data.jrDirector[i].Name }} </h4>
       <i> {{ site.data.jrDirector[i].Position }} </i>
-      {% for i in (0..8) %}
-        <dialog class="dialog-person" id="dialog2">
-          <form method="dialog" class="dialog-close">
-            <button title="Close">
-              x
-            </button>
-          </form>
-          <div class="dialog-frame">
-            <div class="dialog-image">
-              <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
-            </div>
-            <div class="dialog-body">
-              <h4 class="dialog-title">
-                {{ site.data.Director[i].Name }}
-              </h4>
-              <p class="dialog-desc">
-                <em>{{ site.data.Director[i].Position }}</em>
-              </p>
-              <p class="dialog-content">
-                {{ site.data.Director[i].Email }}
-                {{ site.data.Director[i].Bio }}
-              </p>
-            </div>
+      <dialog class="dialog-person" id="dialog2">
+        <form method="dialog" class="dialog-close">
+          <button title="Close">
+            x
+          </button>
+        </form>
+        <div class="dialog-frame">
+          <div class="dialog-image">
+            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
           </div>
-        </dialog>
-      {% endfor %}
+          <div class="dialog-body">
+            <h4 class="dialog-title">
+              {{ site.data.Director[i].Name }}
+            </h4>
+            <p class="dialog-desc">
+              <em>{{ site.data.Director[i].Position }}</em>
+            </p>
+            <p class="dialog-content">
+              {{ site.data.Director[i].Email }}
+              {{ site.data.Director[i].Bio }}
+            </p>
+          </div>
+        </div>
+      </dialog>
       <!--<p> {{ site.data.jrDirector[i].Email }} </p>
       <!--<div> {{ site.data.jrDirector[i].Bio }} </div>
   <!--    <div>
@@ -173,32 +167,30 @@ nav: Council
     <div><img class="image-circle" src="img/{{ site.data.Chair[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy" height="1200" width="1200">
       <h4> {{ site.data.Chair[i].Name }} </h4>
       <i> {{ site.data.Chair[i].Position }} </i>
-      {% for i in (0..9) %}
-        <dialog class="dialog-person" id="dialog2">
-          <form method="dialog" class="dialog-close">
-            <button title="Close">
-              x
-            </button>
-          </form>
-          <div class="dialog-frame">
-            <div class="dialog-image">
-              <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
-            </div>
-            <div class="dialog-body">
-              <h4 class="dialog-title">
-                {{ site.data.Director[i].Name }}
-              </h4>
-              <p class="dialog-desc">
-                <em>{{ site.data.Director[i].Position }}</em>
-              </p>
-              <p class="dialog-content">
-                {{ site.data.Director[i].Email }}
-                {{ site.data.Director[i].Bio }}
-              </p>
-            </div>
+      <dialog class="dialog-person" id="dialog2">
+        <form method="dialog" class="dialog-close">
+          <button title="Close">
+            x
+          </button>
+        </form>
+        <div class="dialog-frame">
+          <div class="dialog-image">
+            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
           </div>
-        </dialog>
-      {% endfor %}
+          <div class="dialog-body">
+            <h4 class="dialog-title">
+              {{ site.data.Director[i].Name }}
+            </h4>
+            <p class="dialog-desc">
+              <em>{{ site.data.Director[i].Position }}</em>
+            </p>
+            <p class="dialog-content">
+              {{ site.data.Director[i].Email }}
+              {{ site.data.Director[i].Bio }}
+            </p>
+          </div>
+        </div>
+      </dialog>
       <!--<p> {{ site.data.Chair[i].Email }} </p>
       <!--<div> {{ site.data.Chair[i].Bio }} </div>
   <!--    <div>
