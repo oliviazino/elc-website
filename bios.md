@@ -213,6 +213,6 @@ nav: Council
 
 <script>
 function openDialog(level, index) { 
-  document.getElementById("{{ level }}dialog-{{ index }}").showModal(); 
+  document.getElementById(level + "dialog-" + index.toString()).showModal(); 
 } 
 </script>
