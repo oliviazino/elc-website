@@ -40,18 +40,18 @@ nav: Council
         </form>
         <div class="dialog-frame">
           <div class="dialog-image">
-            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
+            <img height = "1200" width="1200" src="img/{{ site.data.Executive[i].netid }}.jpg" alt>
           </div>
           <div class="dialog-body">
             <h4 class="dialog-title">
-              {{ site.data.Director[i].Name }}
+              {{ site.data.Executive[i].Name }}
             </h4>
             <p class="dialog-desc">
-              <em>{{ site.data.Director[i].Position }}</em>
+              <em>{{ site.data.Executive[i].Position }}</em>
             </p>
             <p class="dialog-content">
-              {{ site.data.Director[i].Email }}
-              {{ site.data.Director[i].Bio }}
+              {{ site.data.Executive[i].Email }}
+              {{ site.data.Executive[i].Bio }}
             </p>
           </div>
         </div>
@@ -124,18 +124,18 @@ nav: Council
         </form>
         <div class="dialog-frame">
           <div class="dialog-image">
-            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
+            <img height = "1200" width="1200" src="img/{{ site.data.jrDirector[i].netid }}.jpg" alt>
           </div>
           <div class="dialog-body">
             <h4 class="dialog-title">
-              {{ site.data.Director[i].Name }}
+              {{ site.data.jrDirector[i].Name }}
             </h4>
             <p class="dialog-desc">
-              <em>{{ site.data.Director[i].Position }}</em>
+              <em>{{ site.data.jrDirector[i].Position }}</em>
             </p>
             <p class="dialog-content">
-              {{ site.data.Director[i].Email }}
-              {{ site.data.Director[i].Bio }}
+              {{ site.data.jrDirector[i].Email }}
+              {{ site.data.jrDirector[i].Bio }}
             </p>
           </div>
         </div>
@@ -175,18 +175,18 @@ nav: Council
         </form>
         <div class="dialog-frame">
           <div class="dialog-image">
-            <img height = "1200" width="1200" src="img/{{ site.data.Director[i].netid }}.jpg" alt>
+            <img height = "1200" width="1200" src="img/{{ site.data.Chair[i].netid }}.jpg" alt>
           </div>
           <div class="dialog-body">
             <h4 class="dialog-title">
-              {{ site.data.Director[i].Name }}
+              {{ site.data.Chair[i].Name }}
             </h4>
             <p class="dialog-desc">
-              <em>{{ site.data.Director[i].Position }}</em>
+              <em>{{ site.data.Chair[i].Position }}</em>
             </p>
             <p class="dialog-content">
-              {{ site.data.Director[i].Email }}
-              {{ site.data.Director[i].Bio }}
+              {{ site.data.Chair[i].Email }}
+              {{ site.data.Chair[i].Bio }}
             </p>
           </div>
         </div>
