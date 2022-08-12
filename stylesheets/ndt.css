@@ -203,6 +203,54 @@ input[type="search"]::-webkit-search-decoration {-webkit-appearance:none;appeara
 textarea {overflow:auto; vertical-align:top;}
 optgroup {font-weight:bold;}
 
+/* Dialogs
+----------------------------------------------------*/
+dialog { display:block; position:fixed; top:50%; transform:translate(0, -50%); left:0; right:0; width:fit-content; height:fit-content; margin:auto; padding:0; border:none; box-shadow:0 0 7px rgba(0,0,0,0.7); background:var(--sky-blue); max-width:90vw; max-height:90vh; }
+dialog[open] { animation:dialogShow .25s ease-out;}
+dialog:not([open]) { display:none; }
+dialog.fixed { position:fixed; top:50%; transform:translate(0, -50%); }
+dialog + .backdrop { position:fixed; top:0; right:0; bottom:0; left:0; }
+dialog + .backdrop,
+dialog::backdrop { background:rgba(0,0,0,0.5); }
+._dialog_overlay { position:fixed; top:0; right:0; bottom:0; left:0; }
+.has-open-dialog .page-main { z-index:unset; }
+.has-open-dialog .page-main::before { z-index:0; }
+
+.dialog-close {position:absolute; top:0; right:1rem;}
+.dialog-close button {color:var(--brand-blue); padding:0; margin:0; border:0; background:none; animation: dialogEnter 0.3s; font-size:2em; width:1.25em; height:1.25em; line-height:1.25; position:absolute; right:-0.16em; top:0.25em; text-align:center; border-radius:100%; background:rgba(255,255,255,0.5); }
+.dialog-close.offset {top:-1.6rem; right:-0.7rem;}
+  .dialog-close.offset button {width:1em; height:1em; line-height:1em; background:#fff;}
+
+.dialog-frame { overflow-y:auto; height:auto; max-height:90vh;}
+.dialog-body { padding:1rem; }
+.dialog-image img { width:100%; }
+
+.dialog-person {overflow:visible; max-width:80vw; display:flex; flex-flow:row; }
+  .dialog-person .dialog-image {margin:-1rem 1rem 0 -1rem; width:40%; }
+  .dialog-person .dialog-body { padding:2rem 2rem 2rem 1rem; width:60%; overflow-y:auto; }
+.dialog-person .dialog-frame { display:flex; flex-flow:row; overflow:visible; height:auto; padding:0; }
+
+@media screen and (min-width: 48em) {
+  .site-content { grid-template-columns: [screen-start] var(--gutter-width) [container-start sidebar-start] var(--sidebar-width) [sidebar-end content-start] minmax(0, 1fr) [content-end container-end] var(--gutter-width) [screen-end]; }
+  .content--pull-top { background: #fff; padding: 2rem; margin: -8rem -2rem 0; }
+  .section-image { margin:-2rem 0 -2rem var(--gutter-offset);  }
+  .section--get-started { padding-top:5rem; }
+    .section--get-started::before { border-top:1px solid #ccc; }
+  .dialog-person .dialog-image { width:33%; }
+  .dialog-person .dialog-body { width:67%; }
+}
+@media screen and (min-width: 60em) {
+  .section-body { padding:3rem; padding-right:0; }
+  .section-image { margin-left:calc(var(--gutter-offset) - 2rem); margin-right:0; margin-top:-3rem; margin-bottom:-3rem; }
+  .section--alt .section-body { order:-1; padding-right:2rem; padding-left:0; }
+  .section--alt .section-image {  margin-left:0; margin-right:-5vw; }
+}
+@media screen and (min-width: 120em) {
+  .section-image { margin-left:-6rem; }
+  .section--alt .showcase-item-image { margin-left:0; margin-right:-6rem; }
+  .dialog-person {max-width:108rem; }
+}
+
 /* Quotes
 ----------------------------------------------------*/
 blockquote {margin:1em 0; padding:1em 1.5em; font-family:var(--font-heading-article); font-weight:300; font-style:italic;}
