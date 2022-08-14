@@ -52,6 +52,7 @@ nav: Council
             </p>
             <p class="dialog-content">
               {{ site.data.Executive[i].Email }}
+              <br>
               {{ site.data.Executive[i].Bio }}
             </p>
           </div>
@@ -86,6 +87,7 @@ nav: Council
             </p>
             <p class="dialog-content">
               {{ site.data.Director[i].Email }}
+              <br>
               {{ site.data.Director[i].Bio }}
             </p>
           </div>
@@ -136,6 +138,7 @@ nav: Council
             </p>
             <p class="dialog-content">
               {{ site.data.jrDirector[i].Email }}
+              <br>
               {{ site.data.jrDirector[i].Bio }}
             </p>
           </div>
@@ -187,6 +190,7 @@ nav: Council
             </p>
             <p class="dialog-content">
               {{ site.data.Chair[i].Email }}
+              <br>
               {{ site.data.Chair[i].Bio }}
             </p>
           </div>
