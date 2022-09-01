@@ -253,7 +253,7 @@ dialog::backdrop { background:rgba(0,0,0,0.5); }
 
 .person-hover:hover {
   background-color: #abcdef;
-  padding-left: 10px
+  margin: -5px;
 }
 
 /* Quotes
