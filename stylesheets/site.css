@@ -27,7 +27,8 @@
 #myImage {
   width: 80%;
   height: 65%;
-  margin: auto
+  left: 0 px;
+  right: 0 px;
 }
 
 
