@@ -226,7 +226,7 @@ dialog::backdrop { background:rgba(0,0,0,0.5); }
 .dialog-image img { width:100%; }
 
 .dialog-person {overflow:visible; max-width:80vw; display:flex; flex-flow:row; }
-  .dialog-person .dialog-image {margin:-1rem 1rem 0 -1rem; width:40%; }
+  .dialog-person .dialog-image { width:40%; }
   .dialog-person .dialog-body { padding:2rem 2rem 2rem 1rem; width:60%; overflow-y:auto; }
 .dialog-person .dialog-frame { display:flex; flex-flow:row; overflow:visible; height:auto; padding:0; }
 
