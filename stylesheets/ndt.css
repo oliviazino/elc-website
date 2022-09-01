@@ -255,6 +255,10 @@ dialog::backdrop { background:rgba(0,0,0,0.5); }
   background-color: #abcdef;
 }
 
+.person-hover {
+  text-align: center;
+}
+
 /* Quotes
 ----------------------------------------------------*/
 blockquote {margin:1em 0; padding:1em 1.5em; font-family:var(--font-heading-article); font-weight:300; font-style:italic;}

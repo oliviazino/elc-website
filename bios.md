@@ -29,7 +29,7 @@ nav: Council
 -->
 <div class="grid grid-md-4">
   {% for i in (0..3) %}
-    <div class="person-hover" onclick="openDialog('ex', {{ i }})"><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="0" vspace="30" id="myImage" loading="lazy">
+    <div class="person-hover" onclick="openDialog('ex', {{ i }})"><img class="image-circle" src="img/{{ site.data.Executive[i].netid }}.jpg" hspace="0" vspace="20" id="myImage" loading="lazy">
       <h4> {{ site.data.Executive[i].Name }} </h4>
       <i> {{ site.data.Executive[i].Position }} </i>
       <dialog class="dialog-person" id="exdialog-{{i}}">

@@ -26,9 +26,12 @@
 
 #myImage {
   width: 80%;
-  height: 65%;
-  left: 0px;
-  right: 0px;
+  height: auto;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block;
+  padding-top: 10px;
 }
 
 
