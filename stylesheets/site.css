@@ -25,10 +25,13 @@
 
 
 #myImage {
-  width: 30%;
+  width: 80%;
   height: auto;
-  left: 0px;
-  right: 0px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block;
+  padding-top: 10px;
 }
 
 
