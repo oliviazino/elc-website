@@ -9,7 +9,7 @@ subpage3: Sponsorship
 subpage3url: sponsors.html
 nav: Career
 ---
-<p> We are proud to announce the following sponsores for this year's Engineering Industry Night </p>
+<p> We are proud to announce the following sponsors for this year's Engineering Industry Night </p>
 <div><img src="img/ein24.jpg" loading="lazy"></div>
 
 <!-- - Bulley & Andrews
@@ -18,5 +18,3 @@ nav: Career
 - Cornerstone 
 - Kraemer 
 - Whiting-Turner -->
-
-<img>
