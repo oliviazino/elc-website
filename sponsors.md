@@ -10,11 +10,13 @@ subpage3url: sponsors.html
 nav: Career
 ---
 <p> We are proud to announce the following sponsores for this year's Engineering Industry Night </p>
+<div><img src="img/ein24.jpg" loading="lazy"></div>
 
-- Bulley & Andrews
+<!-- - Bulley & Andrews
 - Pratt & Whitney 
 - Deloitte
 - Cornerstone 
 - Kraemer 
-- Whiting-Turner 
+- Whiting-Turner -->
 
+<img>

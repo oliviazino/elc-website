@@ -32,7 +32,7 @@ nav: Events
 
 
 <h3>Engineering Leaders Breakfast (engineers only, invite required)</h3>
-<p><em><b>Tuesday, September 13th 8:30 - 10:00 AM EST</b></em></p>
+<p><em><b>Wednesday, September 18th 8:30 - 10:00 AM EST</b></em></p>
 <p> More information to follow. Stay tuned!</p>
 
 <h3>Multi-College Career Fair (all university)</h3>
