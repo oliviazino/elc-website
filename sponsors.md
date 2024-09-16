@@ -9,5 +9,12 @@ subpage3: Sponsorship
 subpage3url: sponsors.html
 nav: Career
 ---
-<p> More information coming soon! For urgent
-  inquiries, please reach out to mlochhea@nd.edu</p>
+<p> We are proud to announce the following sponsores for this year's Engineering Industry Night </p>
+
+- Bulley & Andrews
+- Pratt & Whitney 
+- Deloitte
+- Cornerstone 
+- Kraemer 
+- Whiting-Turner 
+
