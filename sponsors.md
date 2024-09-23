@@ -12,11 +12,11 @@ nav: Career
 <p> We are proud to announce the following sponsors for this year's Engineering Industry Night </p>
 <div><img src="img/ein24.jpg" loading="lazy"></div>
 
+<p> If your company is interested in sponsoring the Engineering Leadership Council, please reach out to elc@nd.edu. </p>
+
 <!-- - Bulley & Andrews
 - Pratt & Whitney 
 - Deloitte
 - Cornerstone 
 - Kraemer 
 - Whiting-Turner -->
-
-<img>

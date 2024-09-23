@@ -1,33 +1,36 @@
 ---
 layout: home
-month: Feb
-numDay: 24
-event: SWE 50th Anniversary Donut Giveaway
+
+month: Sept
+numDay: 26
+event: Engineering Study Abroad Info Session
 day: Thu
-year: 2022
-timeStart: 3:00 PM
-timeEnd: 5:00 PM
-location: 1st Floor Fitzpatrick
-startDate: 2022-2-3T15:00-17:00
-endDate: 2022-2-3T15:00-17:00
-month2: Feb
-numDay2: 24
-event2: Engineering Student Professor Social
-day2: Thu
-year2: 2022
-timeStart2: 5:00 PM
-timeEnd2: 7:00 PM
-location2: Legends of Notre Dame
-startDate2: 2022-2-3T17:00-19:00
-endDate2: 2022-2-3T17:00-19:00
-month3: Feb
-numDay3: 24
-event3: Carrier’s 50 Years of Women Celebration Panel with SWE
-day3: Thu
-year3: 2022
+year: 2024
+timeStart: 7:15 PM
+timeEnd: 8:15 PM
+location: 155 DeBartolo Hall
+startDate: 2024-9-3T19:15-20:00
+endDate: 2024-9-3T19:15-20:00
+
+month2: Sept
+numDay2: 27
+event2: ND Seed Apparel Sale
+day2: Fri
+year2: 2024
+timeStart2: 12:00 PM
+timeEnd2: 4:00 PM
+location2: Duncan Student Center
+startDate2: 2024-9-3T12:00-16:00
+endDate2: 2024-9-3T12:00-16:00
+
+month3: Oct
+numDay3: 1
+event3: Engineering Dual Degree & MS Program Session 
+day3: Tues
+year3: 2024
 timeStart3: 7:00 PM
 timeEnd3: 8:00 PM
-location3: Stinson-Remick Room 212
-startDate3: 2022-2-3T19:00-20:00
-endDate3: 2022-2-3T19:00-20:00
+location3: 138 DeBartolo Hall
+startDate3: 2024-9-3T19:00-20:00
+endDate3: 2024-9-3T19:00-20:00
 ---
