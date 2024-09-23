@@ -33,7 +33,7 @@ nav: Events
 
 <h3>Engineering Leaders Breakfast (engineers only, invite required)</h3>
 <p><em><b>Wednesday, September 18th 8:30 - 10:00 AM EST</b></em></p>
-<p> Please dress in business professional attire. If invited, please join us in 210 Duncan Student Center</p>
+<p> Business casual attire is appropriate. </p>
 
 <h3>Multi-College Career Fair (all university)</h3>
 <p><em><b>Tuesday, September 17th 5:00 - 7:30 PM EST</b></em></p>
